@@ -1,0 +1,26 @@
+[{
+    "example_1": {
+        "input": {
+            "user_prompt": "I feel overwhelmed with my studies and can't seem to focus.",
+            "theme": "Learning and Knowledge",
+            "type": "Real-Life Case Study",
+            "style": "Warm and Comforting"
+        },
+        "output": "{'title': 'Elizabeth Gilbert's Eat Pray Love', 'content': 'After a difficult divorce, a woman travels to Italy, India, and Indonesia in search of pleasure, devotion, and balance, rediscovering herself through the journey.', 'theme': 'Daily Mood', 'source': 'Eat Pray Love by Elizabeth Gilbert', 'moral': 'Sometimes we need to step away from our normal lives to rediscover who we are and what truly matters to us.', 'type': 'Real-Life Case Study', 'style': 'Warm and Comforting'}"
+    },
+    "example_2": {
+        "input": {
+            "user_prompt": "I had a fight with my best friend and now I feel lonely.",
+            "theme": "Interpersonal Relationships",
+            "style": "Story-Driven and Immersive"
+        },
+        "output": "{'title': 'The Complexity of Love and Guilt', 'content': 'The nights after she left, the emptiness was unbearable. I wandered the streets, visited the places where we had been, and fought the longing for her like a physical presence. Our time together was a blend of love, guilt, and unarticulated emotions that lingered, refusing to fade. It crept into every aspect of my being, shaping my thoughts and my actions. I tried reading to occupy my mind, to bring the comfort that stories often did. Yet, every word reminded me of her, of sitting by her side, reading aloud in the warm, golden light of those intimate afternoons. Our bond, forged in pages and whispered stories, was intricately tied to my sense of self. How could I go back to being the person I was before knowing her? My understanding of life and love forever altered, reshaped by shared secrets and the silent promise of our unique connection. Her disappearance left an inexplicable void, one that I feared would never truly heal.', 'theme': 'Interpersonal Relationships', 'type': 'Fictional Character (Film/Novel)', 'style': 'Story-Driven and Immersive', 'source': 'The Reader by Bernhard Schlink', 'moral': 'Love teaches us profound lessons that endure even in absence, transforming our understanding of ourselves and the world.'}"
+    },
+    "example_3": {
+        "input": {
+            "user_prompt": "the world just seems so chaotic and unpredictable these days, people never tried to understand each other, and lots of people die every day because of a stupid war."
+        },
+        "output": "{'title': 'The Duality of Man', 'content': 'With every day, and from both sides of my intelligence, the moral and the intellectual, I thus drew steadily nearer to that truth, by whose partial discovery I have been doomed to such a dreadful shipwreck: that man is not truly one, but truly two. I say two, because the state of my own knowledge does not pass beyond that point. Others will follow, others will outstrip me on the same lines; and I hazard the guess that man will be ultimately known for a mere polity of multifarious, incongruous, and independent denizens.', 'theme': 'Self-Understanding and Growth', 'type': 'Fictional Character (Film/Novel)', 'style': 'Concise and Philosophical', 'source': 'The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson', 'moral': 'Understanding and accepting all facets of one's self is essential to achieving true harmony and peace.'}"
+    }
+}
+]

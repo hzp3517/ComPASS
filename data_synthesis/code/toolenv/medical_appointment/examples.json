@@ -1,0 +1,74 @@
+{
+    "example_1": {
+        "input": {
+            "operation": "book",
+            "user_name": "Zhang San",
+            "user_phone": "13800138000",
+            "illness_description": "Persistent cough for a week, accompanied by fever",
+            "desired_date": "2023-10-15"
+        },
+        "output": {
+            "success": true,
+            "result": {
+                "message": "Appointment successful",
+                "appointment_id": "a1b2c3d4-5678-90ef-ghij-klmnopqrstuv",
+                "hospital": "Peking Union Medical College Hospital",
+                "department": "Respiratory Medicine",
+                "doctor": "Dr. Li",
+                "appointment_date": "2023-10-15 10:30"
+            }
+        }
+    },
+    "example_2": {
+        "input": {
+            "operation": "query",
+            "user_phone": "13800138000"
+        },
+        "output": {
+            "success": true,
+            "result": [
+                {
+                    "id": "a1b2c3d4-5678-90ef-ghij-klmnopqrstuv",
+                    "user_name": "Zhang San",
+                    "user_phone": "13800138000",
+                    "user_id": "",
+                    "illness_description": "Persistent cough for a week, accompanied by fever",
+                    "desired_date": "2023-10-15",
+                    "hospital": "Peking Union Medical College Hospital",
+                    "department": "Respiratory Medicine",
+                    "doctor": "Dr. Li",
+                    "appointment_date": "2023-10-15 10:30",
+                    "status": "confirmed",
+                    "created_at": "2023-10-10 09:15:30",
+                    "updated_at": "2023-10-10 09:15:30"
+                }
+            ]
+        }
+    },
+    "example_3": {
+        "input": {
+            "operation": "modify",
+            "appointment_id": "a1b2c3d4-5678-90ef-ghij-klmnopqrstuv",
+            "desired_date": "2023-10-16"
+        },
+        "output": {
+            "success": true,
+            "result": {
+                "message": "Appointment has been updated",
+                "hospital": "Peking Union Medical College Hospital",
+                "department": "Respiratory Medicine",
+                "appointment_date": "2023-10-16 09:00"
+            }
+        }
+    },
+    "example_4": {
+        "input": {
+            "operation": "cancel",
+            "appointment_id": "a1b2c3d4-5678-90ef-ghij-klmnopqrstuv"
+        },
+        "output": {
+            "success": true,
+            "result": "Appointment has been successfully cancelled"
+        }
+    }
+}

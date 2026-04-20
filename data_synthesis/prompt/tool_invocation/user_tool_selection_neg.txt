@@ -1,0 +1,61 @@
+Based on the user's profile information and their message to you, determine the user's current scenario(The available scenarios include 'Work/Study_scenario' 'Health_scenario' 'Family_scenario' 'Social_scenario' 'Leisure_scenario'). Then, please use the tools that the user dislikes in the current scenario (as specified in the persona) to create a response that fits the current scenario.
+Meanwhile, you will be provided with the evaluations from experts on the content you generated during the previous tool invocation, and you can refer to these evaluations.
+- Tool call format: "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+  Example: music_recommendation.query_music(genre='pop', keywords='happy')
+
+# Task Input
+## Tool definition
+"""
+<tool_defs>
+"""
+## persona
+"""
+<persona>
+"""
+## User's current message
+"""
+<utterance>
+"""
+## suggestion
+"""
+<suggestion>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Return only 2 tool call record
+2. Must use existing tool folder names and function names present in definitions
+3. Parameter values must meet the requirements in the tool definition
+4. Strictly follow the output format of "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+5. Strictly follow the requirements in the definition - "required" parameters must be generated
+6. The tool you select must be the one the user dislikes in the current scenario.
+7. Even though the tool you're using is disliked by the user, you must align the use of this tool with what the user is saying (or their needs) at the moment.
+8. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+
+## Output Format (json)
+"""
+{
+  "scenario":"...",
+  "1": {
+    "call_type": "..."("pos" or "neg"),
+    "tool_folder_name": "...",
+    "function_name": "...",
+    "param": {
+      "parameter1": "...",
+      "parameter2": "..."
+    }
+  },
+  "2": {
+    "call_type": "...",
+    "tool_folder_name": "...",
+    "function_name": "...",
+    "param": {
+      "parameter1": "...",
+      "parameter2": "..."
+    }
+  }
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

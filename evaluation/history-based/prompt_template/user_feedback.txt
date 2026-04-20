@@ -1,0 +1,43 @@
+The user has shared some content with you. You generate tool call parameters based on the user's input, and the tool runs and returns results accordingly. Please filter useful information from the tool's output and combine it with the user's input to generate a supportive response. The core goal is to accurately integrate key content from the tool and provide practical assistance to the user.
+Reference Example (for style guidance only; no need to copy the structure):
+When you focus on health and face physical discomfort head-on, I have selected a work that combines comfort and strength for you through the 「Film Recommendation Tool」— The Secret Life of Walter Mitty. Here are the reasons for recommendation: ① Highly aligned with your proactive attitude toward problems: The protagonist Walter's adventure of stepping out of his comfort zone conveys the attitude of "taking initiative to control life," which is consistent with your calmness in scheduling medical check-ups in advance and facing discomfort directly; ② Dual healing for body and mind: The stunning natural scenes in the film, such as Iceland's wilderness and snow-capped mountains, can relieve physical tension and resonate with your love for gardening and connection with nature; ③ Relaxing and stress-free: The brisk and warm tone avoids oppression, and the protagonist's growth conveys confidence in "not fearing the unknown," which can ease your worries. Friendly reminder: It is recommended to watch while leaning on a sofa with a pillow supporting your waist to avoid discomfort from prolonged sitting. May this film bring you relaxation and wish you a speedy recovery to continue enjoying the time with plants.
+
+# Task Input
+## persona
+"""
+<persona>
+"""
+## User message
+"""
+<user_utterance>
+"""
+## Tool call parameter
+"""
+<tool_call>
+"""
+## Tool call results
+"""
+<tool_results>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Tool Results as the Core: Must include useful information from tool calls (e.g., original jokes/stories, schedule details, complete plan content, Image url, website link,Complete detailed information of the hospital appointment etc.). Except for irrelevant information such as IDs and similarity scores, all other key content must be fully retained without omission.
+2. Contextual Fit + Understanding Needs: The response must align with the current conversation scenario and reflect an understanding of the user's core needs (e.g., focus on healing content if the user needs relaxation, emphasize practical information if the user needs solutions).
+3. Fluent and Natural Expression: The format of tool results can be restructured (no need to copy the original structure), but major modifications should be avoided, and key details must be preserved. Add concise transitional words to enhance logical coherence.
+4. Retrieval tools will return multiple results, and you can select the most useful one or two pieces of retrieved information from them to organize your response.
+5. The response should focus primarily on the tool.
+6. The meme retrieval tool shall provide complete meme URLs in its responses.
+7. For story - related tools, please output the original text of the story.
+8. Please note that users cannot see the results of tool calls. Therefore, you need to include all useful content from the tool call results in your output and must not simply summarize the tool content.
+9. It must be clearly indicated in the response what type of tool you have invoked, and jokes and stories must not be confused.
+10.Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "feedback" : "..."
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

@@ -1,0 +1,52 @@
+{
+    "name": "medical_appointment_operation",
+    "description": "Medical appointment system tool that supports booking, querying, modifying, and canceling appointments. The return result includes whether the operation was successful (success) and specific results (result).",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "operation": {
+                "type": "string",
+                "enum": ["book", "query", "modify", "cancel"],
+                "description": "Operation type: book (make an appointment), query (check appointment), modify (change appointment), cancel (cancel appointment)"
+            },
+            "user_name": {
+                "type": "string",
+                "description": "User's name, used for booking, querying, and modifying operations"
+            },
+            "user_phone": {
+                "type": "string",
+                "description": "User's phone number, used for booking, querying, and modifying operations"
+            },
+            "user_id": {
+                "type": "string",
+                "description": "User's ID number (optional), used for booking and querying operations"
+            },
+            "illness_description": {
+                "type": "string",
+                "description": "Description of illness, used only for booking operations"
+            },
+            "desired_date": {
+                "type": "string",
+                "description": "Desired appointment date (format: YYYY-MM-DD), used for booking and modifying operations"
+            },
+            "appointment_id": {
+                "type": "string",
+                "description": "Appointment ID, used for querying, modifying, and canceling operations"
+            },
+            "status": {
+                "type": "string",
+                "description": "Appointment status (pending/confirmed/cancelled), used for querying operations"
+            },
+            "hospital": {
+                "type": "string",
+                "description": "Hospital name, used for querying operations"
+            },
+            "department": {
+                "type": "string",
+                "description": "Department name, used for querying operations"
+            }
+        },
+        "required": ["operation","desired_date"],
+        "additionalProperties": false
+    }
+}

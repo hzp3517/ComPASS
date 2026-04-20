@@ -1,0 +1,4398 @@
+{
+  "sch_1": {
+    "time": "2026-03-12 19:00",
+    "location": "Home study room",
+    "event": "Family study time together to help each other with homework and creative writing",
+    "duration": "1 hour",
+    "created_at": "2026-03-15 20:21:32"
+  },
+  "sch_2": {
+    "time": "2026-03-12 18:30",
+    "location": "home study room",
+    "event": "Family homework help and creative writing session",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 20:21:32"
+  },
+  "sch_3": {
+    "time": "2026-03-12 19:00",
+    "location": "living room",
+    "event": "Family homework and creative writing time together",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-15 20:21:36"
+  },
+  "sch_4": {
+    "time": "2026-03-11 18:00",
+    "location": "Home, shared room",
+    "event": "Help younger brother with homework and spend time together after school",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-15 20:21:41"
+  },
+  "sch_5": {
+    "time": "2026-03-12 18:30",
+    "location": "West Timothyside home",
+    "event": "Return sibling's electronics kit and help with their project",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 20:24:08"
+  },
+  "sch_6": {
+    "time": "2026-03-12 08:00",
+    "location": "Transport control room",
+    "event": "Team sync and review of next week’s optimized transport schedule",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 20:32:09"
+  },
+  "sch_7": {
+    "time": "2026-03-15 08:30",
+    "location": "Transport control office",
+    "event": "Review and confirm next week's transport schedule with team and supervisor",
+    "duration": "1 hour",
+    "created_at": "2026-03-15 20:32:16"
+  },
+  "sch_8": {
+    "time": "2026-03-15 15:00",
+    "location": "Local park near Shelleychester",
+    "event": "Afternoon walk with daughter to celebrate positive blood pressure change",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 20:40:10"
+  },
+  "sch_9": {
+    "time": "2026-03-20 15:00",
+    "location": "Tea shop near Shelleychester community center",
+    "event": "Weekend tea and walk with daughter to celebrate improved blood pressure",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 20:45:01"
+  },
+  "sch_10": {
+    "time": "2026-03-11 18:30",
+    "location": "Home",
+    "event": "Dinner with mom to talk about school and feel supported again",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:24:20"
+  },
+  "sch_11": {
+    "time": "2026-03-12 18:30",
+    "location": "home kitchen",
+    "event": "Family meal to talk about school stress and support each other",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:24:25"
+  },
+  "sch_12": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner and talking about school stress",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:24:27"
+  },
+  "sch_13": {
+    "time": "2026-03-12 18:30",
+    "location": "Home dining table",
+    "event": "Family dinner where I can share school stress and talk it out with Mom",
+    "duration": "1 hour",
+    "created_at": "2026-03-15 21:24:28"
+  },
+  "sch_14": {
+    "time": "2026-03-26 14:00",
+    "location": "Home - Ashley's house",
+    "event": "Prepare and send birthday illustration gift for younger brother",
+    "duration": "3 hours",
+    "created_at": "2026-03-15 21:27:29"
+  },
+  "sch_15": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Family board game night with clear inclusion plan",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:49:07"
+  },
+  "sch_16": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Family board game night where my sibling helps plan the games and chooses the winner",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:49:07"
+  },
+  "sch_17": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family board game night with everyone's input and sibling leading one game",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:49:14"
+  },
+  "sch_18": {
+    "time": "2026-03-15 06:00",
+    "location": "New driving route starting point",
+    "event": "Start trial period on new driving route to explore scenery and adapt driving routines",
+    "duration": "10 hours",
+    "created_at": "2026-03-15 21:53:58"
+  },
+  "sch_19": {
+    "time": "2026-04-10 05:00",
+    "location": "New route starting point",
+    "event": "Start new driving route and enjoy the scenery for growth and fresh perspective",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 21:54:03"
+  },
+  "sch_20": {
+    "time": "2026-03-15 21:00",
+    "location": "Bedroom, quiet, low-stimulus environment",
+    "event": "Evening grounding and relaxation routine before sleep to manage nightmares and stress",
+    "duration": "30 minutes",
+    "created_at": "2026-03-15 22:45:58"
+  },
+  "sch_21": {
+    "time": "2026-03-12 09:00",
+    "location": "Community Wellness Clinic, Room 3",
+    "event": "Follow-up appointment with my doctor to review my lab results and discuss how to keep my health going after a busy semester.",
+    "duration": "45 minutes",
+    "created_at": "2026-03-15 23:15:26"
+  },
+  "sch_22": {
+    "time": "2026-03-20 19:00",
+    "location": "Home",
+    "event": "Evening walk to celebrate good lab results and stay healthy",
+    "duration": "1 hour",
+    "created_at": "2026-03-15 23:15:26"
+  },
+  "sch_23": {
+    "time": "2026-03-15 10:00",
+    "location": "Home",
+    "event": "Follow-up health check with my doctor to review my lab results and adjust my routine",
+    "duration": "1 hour",
+    "created_at": "2026-03-15 23:15:29"
+  },
+  "sch_24": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family photo album review and tradition-sharing evening with my daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-15 23:37:09"
+  },
+  "sch_25": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner and reflection with partner about balancing work and home life",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 00:38:31"
+  },
+  "sch_26": {
+    "time": "2026-03-15 17:00",
+    "location": "Home living room",
+    "event": "Family sports card afternoon with parents and older sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 01:41:29"
+  },
+  "sch_27": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family conversation about sports card collection and interests",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 02:30:48"
+  },
+  "sch_28": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room for Nancy's daughter visit",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 04:39:00"
+  },
+  "sch_29": {
+    "time": "2026-03-12 08:00",
+    "location": "Home farm",
+    "event": "Help Margaret with chores after her surgery and prepare frozen soup",
+    "duration": "3 hours",
+    "created_at": "2026-03-16 04:40:35"
+  },
+  "sch_30": {
+    "time": "2026-03-12 18:00",
+    "location": "Home kitchen",
+    "event": "Family supper with children and neighbors",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 04:44:05"
+  },
+  "sch_31": {
+    "time": "2026-03-12 15:00",
+    "location": "Home kitchen table",
+    "event": "Family gathering to share a meal and stories",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 04:46:24"
+  },
+  "sch_32": {
+    "time": "2026-03-15 11:00",
+    "location": "Local community center (health checkup room)",
+    "event": "Follow-up appointment to review my hypertension medication change and talk about my health worries",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 05:38:35"
+  },
+  "sch_33": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "5-minute eye break from screen work",
+    "duration": "5 minutes",
+    "created_at": "2026-03-16 06:18:08"
+  },
+  "sch_34": {
+    "time": "2026-03-12 20:00",
+    "location": "Home phone call",
+    "event": "Scheduled call with sister to talk calmly about work stress and how operating heavy machinery feels for me",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 06:21:33"
+  },
+  "sch_35": {
+    "time": "2026-03-15 19:00",
+    "location": "Home kitchen",
+    "event": "Evening meal and flower care with sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 06:31:13"
+  },
+  "sch_36": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Evening with my sister: cooking our favorite veggie meal and having a quiet conversation",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 06:31:19"
+  },
+  "sch_37": {
+    "time": "2026-03-15 18:00",
+    "location": "living room",
+    "event": "Family board game time with Linda",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 06:39:31"
+  },
+  "sch_38": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Daily routine for tennis practice, including pickup and storage of tennis balls.",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 06:41:04"
+  },
+  "sch_39": {
+    "time": "2026-03-12 15:00",
+    "location": "Home art corner",
+    "event": "Family art time with Linda's favorite colors",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 06:44:22"
+  },
+  "sch_40": {
+    "time": "2026-03-15 16:00",
+    "location": "Home",
+    "event": "Talk with doctor about sports day nerves and checkup",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 07:39:23"
+  },
+  "sch_41": {
+    "time": "2026-03-12 15:00",
+    "location": "Family farm kitchen",
+    "event": "Family drawing and game time after Angela gets well from her cold",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 07:47:45"
+  },
+  "sch_42": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Follow-up appointment for Mom",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 07:59:42"
+  },
+  "sch_43": {
+    "time": "2026-03-12 09:00",
+    "location": "Home",
+    "event": "Evening wind-down routine to protect family time after shift",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 08:25:52"
+  },
+  "sch_44": {
+    "time": "2026-03-12 09:00",
+    "location": "Home",
+    "event": "Prepare for product demo: review slides, test demo flow, and practice key points",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 08:28:38"
+  },
+  "sch_45": {
+    "time": "2026-03-15 10:00",
+    "location": "Local clinic",
+    "event": "Follow-up hearing checkup to monitor progress and hearing health",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 08:38:03"
+  },
+  "sch_46": {
+    "time": "2026-03-15 18:00",
+    "location": "Our home kitchen table",
+    "event": "Weekly family chores and responsibilities meeting using the chores chart I organized",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 09:22:37"
+  },
+  "sch_47": {
+    "time": "2026-03-12 08:00",
+    "location": "Plant Floor A",
+    "event": "Shift start with new safety protocol briefing",
+    "duration": "8 hours",
+    "created_at": "2026-03-16 09:52:57"
+  },
+  "sch_48": {
+    "time": "2026-03-12 09:00",
+    "location": "Local nature park",
+    "event": "Family weekend trip as a reward for school work",
+    "duration": "3 days",
+    "created_at": "2026-03-16 10:22:52"
+  },
+  "sch_49": {
+    "time": "2026-03-15 06:00",
+    "location": "Local fish farm",
+    "event": "Morning shipment and farm tasks checklist review",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 10:34:25"
+  },
+  "sch_50": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call with my dad to talk about my brother and check in",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 10:54:18"
+  },
+  "sch_51": {
+    "time": "2026-03-15 09:15",
+    "location": "Home",
+    "event": "Quick check of video call camera and settings before my next staff meeting",
+    "duration": "10 minutes",
+    "created_at": "2026-03-16 12:32:50"
+  },
+  "sch_52": {
+    "time": "2026-03-12 08:15",
+    "location": "Home",
+    "event": "Quick check of video call camera/monitor settings and stretch routine before next staff meeting",
+    "duration": "15 minutes",
+    "created_at": "2026-03-16 12:32:50"
+  },
+  "sch_53": {
+    "time": "2026-03-12 20:00",
+    "location": "Living room",
+    "event": "Family photo album evening with Tina and her daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 12:50:06"
+  },
+  "sch_54": {
+    "time": "2026-03-12 19:00",
+    "location": "Home - living room",
+    "event": "Family photo album evening with daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 12:50:21"
+  },
+  "sch_55": {
+    "time": "2026-03-15 17:00",
+    "location": "Shop checkout area",
+    "event": "Quick check-in with new coworker to review checkout system and answer questions",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 12:59:16"
+  },
+  "sch_56": {
+    "time": "2026-03-11 06:00",
+    "location": "Home workshop",
+    "event": "Morning stretching and joint exercises routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 15:56:31"
+  },
+  "sch_57": {
+    "time": "2026-03-12 06:00",
+    "location": "Home workshop",
+    "event": "Morning joint-stretching routine for physical health maintenance",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 15:56:31"
+  },
+  "sch_58": {
+    "time": "2026-03-12 05:30",
+    "location": "Living room",
+    "event": "Morning stretching and exercise routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 15:56:31"
+  },
+  "sch_59": {
+    "time": "2026-03-15 14:00",
+    "location": "My home garage",
+    "event": "Working on car parts with my sibling",
+    "duration": "3 hours",
+    "created_at": "2026-03-16 17:13:36"
+  },
+  "sch_60": {
+    "time": "2026-03-12 14:00",
+    "location": "Home garage",
+    "event": "Help with car parts and maintenance with sibling",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 17:13:36"
+  },
+  "sch_61": {
+    "time": "2026-03-12 19:00",
+    "location": "Home garage",
+    "event": "Family and friend car parts collaboration",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 17:13:42"
+  },
+  "sch_62": {
+    "time": "2026-03-12 15:00",
+    "location": "Garage and local auto parts store",
+    "event": "Catch up with sibling and work on car parts together",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 17:13:52"
+  },
+  "sch_63": {
+    "time": "2026-03-28 10:00",
+    "location": "Local park",
+    "event": "Rescheduled family picnic with kids and partner",
+    "duration": "3 hours",
+    "created_at": "2026-03-16 17:33:38"
+  },
+  "sch_64": {
+    "time": "2026-03-15 09:00",
+    "location": "Work safety office",
+    "event": "Bring logbook to safety meeting and organize work documents",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 17:42:40"
+  },
+  "sch_65": {
+    "time": "2026-03-20 14:00",
+    "location": "Home",
+    "event": "Create a simple daily check-in routine to track work items, including bringing logbook and tools",
+    "duration": "20 minutes",
+    "created_at": "2026-03-16 17:42:52"
+  },
+  "sch_66": {
+    "time": "2026-03-15 18:00",
+    "location": "Cousin's neighborhood car service",
+    "event": "Arrange a ride for my cousin's kid to a scholarship interview",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 18:18:01"
+  },
+  "sch_67": {
+    "time": "2026-03-15 09:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and present new orchid at big horticultural society exhibition",
+    "duration": "3 hours",
+    "created_at": "2026-03-16 19:03:12"
+  },
+  "sch_68": {
+    "time": "2026-03-21 09:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and display new orchid at horticultural society exhibition",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 19:03:12"
+  },
+  "sch_69": {
+    "time": "2026-03-15 08:00",
+    "location": "Regional Horticultural Society Exhibition Hall",
+    "event": "Prepare and present new orchid at horticultural society exhibition",
+    "duration": "4 hours",
+    "created_at": "2026-03-16 19:03:12"
+  },
+  "sch_70": {
+    "time": "2026-03-18 09:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and present new orchid at big horticultural society exhibition",
+    "duration": "4 hours",
+    "created_at": "2026-03-16 19:03:25"
+  },
+  "sch_71": {
+    "time": "2026-03-11 05:30",
+    "location": "Home workshop",
+    "event": "Morning stretching routine to manage joint stiffness",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 20:19:31"
+  },
+  "sch_72": {
+    "time": "2026-03-12 06:00",
+    "location": "Living room at home",
+    "event": "Morning stretching routine for joint stiffness management",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 20:19:31"
+  },
+  "sch_73": {
+    "time": "2026-03-15 06:00",
+    "location": "Home workshop",
+    "event": "Morning stretching routine for joint stiffness",
+    "duration": "20 minutes",
+    "created_at": "2026-03-16 20:19:31"
+  },
+  "sch_74": {
+    "time": "2026-03-12 23:00",
+    "location": "Home",
+    "event": "Family dinner after my late shift to celebrate the surprise pie",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 21:03:03"
+  },
+  "sch_75": {
+    "time": "2026-03-12 19:00",
+    "location": "Home garage",
+    "event": "Car maintenance and breathing checkup routine",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 21:29:17"
+  },
+  "sch_76": {
+    "time": "2026-03-15 19:00",
+    "location": "Home study table",
+    "event": "Family homework help and quiet hangout time with brother",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 21:42:31"
+  },
+  "sch_77": {
+    "time": "2026-03-12 18:30",
+    "location": "Alex's room",
+    "event": "Help younger brother with homework and do some creative writing together",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 21:42:35"
+  },
+  "sch_78": {
+    "time": "2026-03-15 18:30",
+    "location": "Home study area",
+    "event": "Help younger brother with homework and talk about school stress",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 21:42:35"
+  },
+  "sch_79": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Help younger brother with homework together, then he can help me with my creative writing",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 21:42:40"
+  },
+  "sch_80": {
+    "time": "2026-03-12 08:30",
+    "location": "Transport Control Room",
+    "event": "Team meeting to review and finalize next week’s transport workflow and safety checklist",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-16 22:20:57"
+  },
+  "sch_81": {
+    "time": "2026-03-12 15:00",
+    "location": "Local park near Shelleychester, OH",
+    "event": "Tea and walk with my daughter to celebrate good blood pressure results",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 22:28:47"
+  },
+  "sch_82": {
+    "time": "2026-03-15 15:00",
+    "location": "Nearby park",
+    "event": "Afternoon tea and gentle walk with my daughter to celebrate better blood pressure and health",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 22:28:51"
+  },
+  "sch_83": {
+    "time": "2026-03-12 16:00",
+    "location": "My home",
+    "event": "Light tea and short walk with my daughter to celebrate better blood pressure",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 22:38:21"
+  },
+  "sch_84": {
+    "time": "2026-03-12 19:00",
+    "location": "Home workshop",
+    "event": "Help sister prepare for new job interviews",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 22:40:37"
+  },
+  "sch_85": {
+    "time": "2026-03-12 18:30",
+    "location": "home",
+    "event": "Family dinner where we can talk about school stress together",
+    "duration": "1 hour",
+    "created_at": "2026-03-16 23:02:02"
+  },
+  "sch_86": {
+    "time": "2026-03-15 19:00",
+    "location": "Ashley's home",
+    "event": "Birthday call with younger brother and send surprise illustration",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 23:02:06"
+  },
+  "sch_87": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening dinner with Mom to talk about school stress and unwind together",
+    "duration": "2 hours",
+    "created_at": "2026-03-16 23:02:16"
+  },
+  "sch_88": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my daughter to thank her for the watch part and catch up",
+    "duration": "30 minutes",
+    "created_at": "2026-03-16 23:30:41"
+  },
+  "sch_89": {
+    "time": "2026-03-20 18:30",
+    "location": "Home living room",
+    "event": "Family board game night with everyone's input and sibling in charge of one game",
+    "duration": "3 hours",
+    "created_at": "2026-03-16 23:32:23"
+  },
+  "sch_90": {
+    "time": "2026-03-15 21:00",
+    "location": "Home bedroom",
+    "event": "Evening grounding and relaxation practice to help with recurring nightmares and stress",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 00:42:25"
+  },
+  "sch_91": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Short restorative routine after lab results were excellent and I’m feeling more energized",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 01:31:13"
+  },
+  "sch_92": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Follow-up check-up after excellent lab results and a busy teaching semester",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 01:40:44"
+  },
+  "sch_93": {
+    "time": "2026-03-15 19:30",
+    "location": "Home living room",
+    "event": "Family evening tradition sharing stories about Grandma and her handmade cards",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 01:48:30"
+  },
+  "sch_94": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family tradition evening: sharing stories and reviewing photo albums with my daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 01:48:47"
+  },
+  "sch_95": {
+    "time": "2026-03-12 19:30",
+    "location": "Home living room",
+    "event": "Family evening to document and share family traditions and memories",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 01:49:05"
+  },
+  "sch_96": {
+    "time": "2026-03-15 18:30",
+    "location": "Home dinner",
+    "event": "Deliberate family dinner time to reconnect, share feelings about work-load and home balance, and set simple expectations for each other.",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 03:25:44"
+  },
+  "sch_97": {
+    "time": "2026-03-12 18:00",
+    "location": "Home living room",
+    "event": "Family sports card trading night and casual hangout",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 04:55:47"
+  },
+  "sch_98": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family sports card trading afternoon with sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 04:55:56"
+  },
+  "sch_99": {
+    "time": "2026-03-11 19:00",
+    "location": "home",
+    "event": "Family chat about sports cards and hobbies",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 06:00:17"
+  },
+  "sch_100": {
+    "time": "2026-03-15 08:00",
+    "location": "Factory machine control room",
+    "event": "New clay slips production machine training and first shift preparation",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 06:28:54"
+  },
+  "sch_101": {
+    "time": "2026-03-12 10:00",
+    "location": "Shop checkout area",
+    "event": "Quick cleaning and organization before my shift to minimize interruptions and prepare for the day",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 06:40:08"
+  },
+  "sch_102": {
+    "time": "2026-03-12 08:30",
+    "location": "checkout area",
+    "event": "Quick cleaning routine and shift prep before coworkers arrive",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 06:40:25"
+  },
+  "sch_103": {
+    "time": "2026-03-12 18:00",
+    "location": "home",
+    "event": "Family dinner to celebrate my story getting picked for the magazine",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 09:03:44"
+  },
+  "sch_104": {
+    "time": "2026-03-20 19:00",
+    "location": "Home",
+    "event": "Saturday family dinner and evening together",
+    "duration": "3 hours",
+    "created_at": "2026-03-17 09:13:57"
+  },
+  "sch_105": {
+    "time": "2026-03-20 19:00",
+    "location": "Home - living room",
+    "event": "Wind down routine after filming (light organizing, movie posters, quiet walk with instrumental score)",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 09:26:40"
+  },
+  "sch_106": {
+    "time": "2026-03-11 10:00",
+    "location": "Home office",
+    "event": "Consulting call with potential client about radiation protection and health safety solutions",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 09:59:09"
+  },
+  "sch_107": {
+    "time": "2026-03-15 09:00",
+    "location": "Home office",
+    "event": "Call with potential radiation protection consulting client",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 09:59:19"
+  },
+  "sch_108": {
+    "time": "2026-03-15 19:00",
+    "location": "Home kitchen table",
+    "event": "Talk with family about Chad's garden ideas and plan a simple dinner garden-themed activity together",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 10:29:06"
+  },
+  "sch_109": {
+    "time": "2026-03-15 19:00",
+    "location": "Local community mural wall",
+    "event": "Family mural painting and weekend celebration",
+    "duration": "3 hours",
+    "created_at": "2026-03-17 12:51:04"
+  },
+  "sch_110": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Doctor appointment",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 13:23:46"
+  },
+  "sch_111": {
+    "time": "2026-03-12 19:00",
+    "location": "Living room study corner",
+    "event": "Son's exam preparation session",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 13:53:35"
+  },
+  "sch_112": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Help my brother with his computer project and answer any follow-up questions",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 14:04:09"
+  },
+  "sch_113": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 14:14:58"
+  },
+  "sch_114": {
+    "time": "2026-03-14 19:00",
+    "location": "Home kitchen",
+    "event": "Family pizza night with homemade pizza and relaxed time together",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 14:30:27"
+  },
+  "sch_115": {
+    "time": "2026-03-12 09:00",
+    "location": "Home garage, polishing the Mustang",
+    "event": "Family time: polish Mustang together with my son, enjoy the calm and shared space",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 15:06:44"
+  },
+  "sch_116": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family check-in call with my son to talk about his job search and next interview",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 15:09:26"
+  },
+  "sch_117": {
+    "time": "2026-03-12 10:00",
+    "location": "City",
+    "event": "Weekend visit to daughter for her early birthday surprise",
+    "duration": "2 days",
+    "created_at": "2026-03-17 15:11:30"
+  },
+  "sch_118": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-17 15:16:01"
+  },
+  "sch_119": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Check in on cousin after surgery and help with any follow-up appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 15:31:59"
+  },
+  "sch_120": {
+    "time": "2026-07-15 08:00",
+    "location": "Coastal sailing route planning meeting",
+    "event": "Family summer sailing trip planning meeting with cousin and other family members to finalize route, schedule, and logistics",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 15:58:37"
+  },
+  "sch_121": {
+    "time": "2026-03-12 20:00",
+    "location": "Virtual book chat",
+    "event": "Upcoming virtual book chat with sci-fi readers and writers",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 16:41:43"
+  },
+  "sch_122": {
+    "time": "2026-03-15 14:00",
+    "location": "Home balcony garden",
+    "event": "Check in with daughter about her garden progress and share some practical gardening tips",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 16:48:29"
+  },
+  "sch_123": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Phone call with adult child to catch up and talk about family",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 17:21:04"
+  },
+  "sch_124": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Family time with daughter: meals and activities",
+    "duration": "6 hours",
+    "created_at": "2026-03-17 17:29:52"
+  },
+  "sch_125": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Follow-up appointment with Mom",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 17:31:18"
+  },
+  "sch_126": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family call with mom to apologize and catch up",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 17:32:07"
+  },
+  "sch_127": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner with spouse and children",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 17:33:09"
+  },
+  "sch_128": {
+    "time": "2026-03-12 19:00",
+    "location": "Local soccer field near my apartment",
+    "event": "Catch up with cousin and family after she starts working near here",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 17:45:20"
+  },
+  "sch_129": {
+    "time": "2026-03-12 07:00",
+    "location": "Family picnic at the local park",
+    "event": "Morning picnic preparation: packing snacks, checking soccer ball and frisbee, and helping family get ready for outdoor games",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 17:55:14"
+  },
+  "sch_130": {
+    "time": "2026-03-15 18:00",
+    "location": "Home desk",
+    "event": "5-minute eye break reminder",
+    "duration": "5 minutes",
+    "created_at": "2026-03-17 18:20:34"
+  },
+  "sch_131": {
+    "time": "2026-03-15 09:00",
+    "location": "Home",
+    "event": "Take morning medication",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 18:27:08"
+  },
+  "sch_132": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Afternoon with kids to keep the warm, happy feeling from their surprise visit",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 19:09:22"
+  },
+  "sch_133": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my mom for her birthday and catch up",
+    "duration": "30 minutes",
+    "created_at": "2026-03-17 19:09:47"
+  },
+  "sch_134": {
+    "time": "2026-03-28 08:00",
+    "location": "Home porch and kitchen",
+    "event": "Family Sunday morning coffee and breakfast together",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 19:54:23"
+  },
+  "sch_135": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Afternoon call with adult child to talk about the dog scare and share a quiet moment",
+    "duration": "1 hour",
+    "created_at": "2026-03-17 20:39:49"
+  },
+  "sch_136": {
+    "time": "2026-03-12 18:00",
+    "location": "Mom's home",
+    "event": "Visit Mom to check on her health and bring homemade chicken soup",
+    "duration": "2 hours",
+    "created_at": "2026-03-17 20:39:52"
+  },
+  "sch_137": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Parents' anniversary dinner planning and cooking",
+    "duration": "3 hours",
+    "created_at": "2026-03-17 23:31:20"
+  },
+  "sch_138": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-17 23:33:35"
+  },
+  "sch_139": {
+    "time": "2026-03-12 06:00",
+    "location": "Fishing boat",
+    "event": "Big fishing trip departure with safety checks and crew roster confirmed",
+    "duration": "8 hours",
+    "created_at": "2026-03-17 23:35:50"
+  },
+  "sch_140": {
+    "time": "2026-03-12 09:00",
+    "location": "Home",
+    "event": "Greenhouse care and routine tasks",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 00:15:56"
+  },
+  "sch_141": {
+    "time": "2026-03-15 10:00",
+    "location": "Home",
+    "event": "Check in on cousin after surgery, help with appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 00:19:41"
+  },
+  "sch_142": {
+    "time": "2026-07-15 10:00",
+    "location": "Home living room",
+    "event": "Family music game and story time with niece and nephews",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 01:04:59"
+  },
+  "sch_143": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room for daughter's visit and check medical appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 14:24:06"
+  },
+  "sch_144": {
+    "time": "2026-03-12 08:00",
+    "location": "Home",
+    "event": "Help Margaret with chores after her surgery",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 14:25:33"
+  },
+  "sch_145": {
+    "time": "2026-03-19 10:00",
+    "location": "Home",
+    "event": "Appointments and errands handled by spouse this week",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 14:47:02"
+  },
+  "sch_146": {
+    "time": "2026-03-12 15:00",
+    "location": "Local clinic, 123 Main St",
+    "event": "Doctor's checkup for fatigue after night shifts",
+    "duration": "45 minutes",
+    "created_at": "2026-03-18 15:21:45"
+  },
+  "sch_147": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "30 minutes",
+    "created_at": "2026-03-18 16:15:42"
+  },
+  "sch_148": {
+    "time": "2026-03-12 19:00",
+    "location": "Jeanettechester home dining room",
+    "event": "Family dinner to celebrate close family bonds and share stories about growing up",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 16:16:32"
+  },
+  "sch_149": {
+    "time": "2026-03-12 19:00",
+    "location": "Home dining room",
+    "event": "Family dinner and evening conversation",
+    "duration": "3 hours",
+    "created_at": "2026-03-18 16:16:32"
+  },
+  "sch_150": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner to celebrate togetherness and share stories",
+    "duration": "3 hours",
+    "created_at": "2026-03-18 16:16:32"
+  },
+  "sch_151": {
+    "time": "2026-03-15 19:00",
+    "location": "Home dining table",
+    "event": "Family dinner to share stories and express gratitude for each other",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 16:16:32"
+  },
+  "sch_152": {
+    "time": "2026-03-18 20:00",
+    "location": "Home living room",
+    "event": "Evening herbal tea chat with daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 16:16:36"
+  },
+  "sch_153": {
+    "time": "2026-03-10 10:00",
+    "location": "Local clinic - Downtown Family Health",
+    "event": "Doctor's checkup for fatigue and night shift symptoms",
+    "duration": "1 hour",
+    "created_at": "2026-03-18 17:15:50"
+  },
+  "sch_154": {
+    "time": "2026-03-12 19:00",
+    "location": "Kitchen",
+    "event": "Family cleanup after dinner to prepare for tomorrow's routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-18 17:16:51"
+  },
+  "sch_155": {
+    "time": "2026-03-15 14:00",
+    "location": "Local clinic, downtown",
+    "event": "Medical checkup to discuss recent fatigue and anxiety after night shifts",
+    "duration": "30 minutes",
+    "created_at": "2026-03-18 17:37:16"
+  },
+  "sch_156": {
+    "time": "2026-03-11 09:00",
+    "location": "Shop checkout area",
+    "event": "Quick cleaning and setup before shift to minimize impact from coworker's messy area",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 19:06:39"
+  },
+  "sch_157": {
+    "time": "2026-03-12 08:30",
+    "location": "Shop checkout area",
+    "event": "Brief cleaning routine before shift starts to prepare workspace",
+    "duration": "15 minutes",
+    "created_at": "2026-03-18 19:06:52"
+  },
+  "sch_158": {
+    "time": "2026-03-20 10:00",
+    "location": "Family doctor clinic",
+    "event": "Follow-up appointment for knee stiffness and joint health",
+    "duration": "1 hour",
+    "created_at": "2026-03-18 19:48:29"
+  },
+  "sch_159": {
+    "time": "2026-03-15 10:00",
+    "location": "Family doctor’s clinic",
+    "event": "Annual checkup for knee stiffness and hypertension",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 19:48:29"
+  },
+  "sch_160": {
+    "time": "2026-03-10 10:00",
+    "location": "Family Doctor Office, Thomasland",
+    "event": "Follow-up checkup for knee stiffness and hypertension",
+    "duration": "30 minutes",
+    "created_at": "2026-03-18 19:48:32"
+  },
+  "sch_161": {
+    "time": "2026-03-12 08:00",
+    "location": "Factory shift control room",
+    "event": "Review and adjust new safety protocol schedule for upcoming shifts",
+    "duration": "2 hours",
+    "created_at": "2026-03-18 20:29:50"
+  },
+  "sch_162": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-18 23:38:29"
+  },
+  "sch_163": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Check in with cousin after surgery and help with appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 00:42:03"
+  },
+  "sch_164": {
+    "time": "2026-03-15 15:00",
+    "location": "Home",
+    "event": "Spontaneous visit with daughter to read scientific articles and solve word puzzles",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 01:54:44"
+  },
+  "sch_165": {
+    "time": "2026-03-15 19:00",
+    "location": "Mom's house",
+    "event": "Visit Mom to check on her health and bring homemade chicken soup",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 03:13:20"
+  },
+  "sch_166": {
+    "time": "2026-03-12 21:00",
+    "location": "Home",
+    "event": "Help spouse with son's project deadline",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 03:50:04"
+  },
+  "sch_167": {
+    "time": "2026-03-11 19:00",
+    "location": "Home",
+    "event": "Family dinner together to reconnect and talk about work and home balance",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 06:31:08"
+  },
+  "sch_168": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family sports card swap and catch-up with my sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 07:01:50"
+  },
+  "sch_169": {
+    "time": "2026-03-10 07:00",
+    "location": "Workplace",
+    "event": "Prepare and train on new machine (including safety steps and shift planning)",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 07:42:39"
+  },
+  "sch_170": {
+    "time": "2026-03-12 06:30",
+    "location": "Shop checkout area",
+    "event": "Quick cleaning and reset routine for checkout area before shift starts",
+    "duration": "20 minutes",
+    "created_at": "2026-03-19 07:51:39"
+  },
+  "sch_171": {
+    "time": "2026-03-12 14:30",
+    "location": "Home desk (virtual call setup)",
+    "event": "Quick pre-meeting check to mute microphone and confirm status before joining virtual meetings",
+    "duration": "5 minutes",
+    "created_at": "2026-03-19 08:05:40"
+  },
+  "sch_172": {
+    "time": "2026-03-11 19:00",
+    "location": "Home, reorganizing vintage movie poster collection",
+    "event": "Evening routine to unwind after work shoot: sorting and arranging vintage movie posters.",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 09:06:48"
+  },
+  "sch_173": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Relaxing reorganization of vintage movie poster collection",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 09:06:48"
+  },
+  "sch_174": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Talk to family about Chad’s garden ideas and plan a simple evening together to review the garden plans",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 09:53:39"
+  },
+  "sch_175": {
+    "time": "2026-03-14 10:00",
+    "location": "Home",
+    "event": "Doctor’s appointment reminder for my dad – I’ll help him get ready and make sure I don’t forget again",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 11:04:28"
+  },
+  "sch_176": {
+    "time": "2026-03-12 09:00",
+    "location": "Dad’s clinic",
+    "event": "Doctor’s appointment for Dad",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 11:04:31"
+  },
+  "sch_177": {
+    "time": "2026-03-20 10:00",
+    "location": "Local clinic",
+    "event": "Dad's follow-up doctor appointment after recent plate incident",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 11:04:34"
+  },
+  "sch_178": {
+    "time": "2026-03-14 09:00",
+    "location": "Dad's doctor’s clinic",
+    "event": "Doctor’s appointment for Dad",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 11:04:34"
+  },
+  "sch_179": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Video call with daughter to check in and support her at school",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 11:10:38"
+  },
+  "sch_180": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Video call with daughter to talk about school and support her",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 11:10:38"
+  },
+  "sch_181": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Parents' anniversary dinner planning and cooking",
+    "duration": "4 hours",
+    "created_at": "2026-03-19 11:24:54"
+  },
+  "sch_182": {
+    "time": "2026-03-12 10:00",
+    "location": "Hotel main meeting room",
+    "event": "Afternoon staff debrief and security protocol review meeting",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-19 11:43:57"
+  },
+  "sch_183": {
+    "time": "2026-03-12 09:00",
+    "location": "Main hotel lobby",
+    "event": "Short staff briefing after minor storage room break-in to review lock-up procedures and incident response",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 11:44:18"
+  },
+  "sch_184": {
+    "time": "2026-03-12 07:00",
+    "location": "Home garage",
+    "event": "Garage restoration and repair work routine",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 12:05:26"
+  },
+  "sch_185": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening call with family to talk about the week and share feelings",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 12:21:34"
+  },
+  "sch_186": {
+    "time": "2026-03-20 15:00",
+    "location": "Home farm drawing area",
+    "event": "Drawing with new colored pencils after dinner with family",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 12:58:13"
+  },
+  "sch_187": {
+    "time": "2026-03-12 14:30",
+    "location": "Local Playground",
+    "event": "Soccer tournament practice match with friends",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 13:26:47"
+  },
+  "sch_188": {
+    "time": "2026-03-12 18:00",
+    "location": "Local neighborhood grocery store",
+    "event": "Shared grocery shopping trip with younger sister, focus on healthy and sustainable items",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 14:08:07"
+  },
+  "sch_189": {
+    "time": "2026-03-12 19:00",
+    "location": "Local grocery store and home",
+    "event": "Grocery shopping trip with my sister, focusing on sustainable and healthy food options, and then simple meal prep together.",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 14:08:10"
+  },
+  "sch_190": {
+    "time": "2026-03-15 19:00",
+    "location": "Local grocery store",
+    "event": "Joint grocery shopping trip with my sister to prepare for our weekly sustainable meal plan",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 14:08:40"
+  },
+  "sch_191": {
+    "time": "2026-03-12 18:00",
+    "location": "Local eco-friendly supermarket",
+    "event": "Joint grocery shopping and meal prep day with my sister, focusing on healthy and sustainable food choices.",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 14:08:40"
+  },
+  "sch_192": {
+    "time": "2026-03-15 15:30",
+    "location": "Local pediatric clinic - Rachelport",
+    "event": "Doctor’s check-up for headaches",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 14:16:29"
+  },
+  "sch_193": {
+    "time": "2026-03-11 15:00",
+    "location": "Home (Rachelport, AK)",
+    "event": "Doctor’s check-up appointment for headaches and school stress",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 14:16:31"
+  },
+  "sch_194": {
+    "time": "2026-03-12 14:00",
+    "location": "Doctor’s office",
+    "event": "Doctor appointment for headaches and stomachaches",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 14:16:31"
+  },
+  "sch_195": {
+    "time": "2026-03-15 14:00",
+    "location": "Rachelport General Clinic",
+    "event": "Doctor's appointment for headaches",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 14:16:31"
+  },
+  "sch_196": {
+    "time": "2026-03-12 10:00",
+    "location": "My home",
+    "event": "Family brunch with kids and grandkids",
+    "duration": "4 hours",
+    "created_at": "2026-03-19 14:27:08"
+  },
+  "sch_197": {
+    "time": "2026-03-11 21:00",
+    "location": "Home",
+    "event": "Evening safety check and relaxation routine after street performance",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 15:32:52"
+  },
+  "sch_198": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Follow-up check-up for stress-related headaches",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 16:50:48"
+  },
+  "sch_199": {
+    "time": "2026-03-12 07:00",
+    "location": "Warehouse, forklift and truck",
+    "event": "Today I handled inventory by myself and impressed the supervisor, so I want to keep this reliable routine going.",
+    "duration": "4 hours",
+    "created_at": "2026-03-19 17:32:39"
+  },
+  "sch_200": {
+    "time": "2026-03-15 07:00",
+    "location": "Work",
+    "event": "Prepare for next shift and organize inventory check at the start",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 17:33:02"
+  },
+  "sch_201": {
+    "time": "2026-03-12 18:00",
+    "location": "Ashley's home",
+    "event": "Family catch-up call with younger brother to celebrate and talk about his birthday and my illustration",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-19 18:34:44"
+  },
+  "sch_202": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Knee ache check-up and joint stiffness assessment",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 18:51:35"
+  },
+  "sch_203": {
+    "time": "2026-03-10 19:00",
+    "location": "Living room",
+    "event": "Quiet evening sharing about the rare bird John spotted",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 19:28:08"
+  },
+  "sch_204": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening conversation time with spouse, sharing stories about rare birds and nature observations",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 19:28:10"
+  },
+  "sch_205": {
+    "time": "2026-03-15 19:30",
+    "location": "Dining table in our home",
+    "event": "Brief evening bird observation and casual conversation with my spouse",
+    "duration": "20 minutes",
+    "created_at": "2026-03-19 19:28:11"
+  },
+  "sch_206": {
+    "time": "2026-03-12 18:00",
+    "location": "Whitney's apartment, Mahoneyville",
+    "event": "Family chat with younger brother to plan potential move and regular visits",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 19:56:55"
+  },
+  "sch_207": {
+    "time": "2026-03-12 17:30",
+    "location": "Home",
+    "event": "Prepare an alternative snack plan for tomorrow to avoid vending machine breakdowns",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 20:42:16"
+  },
+  "sch_208": {
+    "time": "2026-03-21 19:00",
+    "location": "Citywide Basketball Tournament",
+    "event": "Team practice and final game strategy before citywide tournament",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 22:51:01"
+  },
+  "sch_209": {
+    "time": "2026-03-20 20:00",
+    "location": "Local community gym basketball court",
+    "event": "Team practice before citywide basketball tournament",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 22:51:01"
+  },
+  "sch_210": {
+    "time": "2026-03-15 18:00",
+    "location": "home",
+    "event": "Check on brother's cough and bring him sliced fruit and water",
+    "duration": "30 minutes",
+    "created_at": "2026-03-19 23:01:51"
+  },
+  "sch_211": {
+    "time": "2026-03-15 18:30",
+    "location": "Home living room",
+    "event": "Family quiet time to talk about how everyone feels and check in on each other",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 23:02:05"
+  },
+  "sch_212": {
+    "time": "2026-03-15 09:00",
+    "location": "Local park",
+    "event": "Family picnic with board games and snacks",
+    "duration": "5 hours",
+    "created_at": "2026-03-19 23:25:08"
+  },
+  "sch_213": {
+    "time": "2026-03-12 09:00",
+    "location": "Local park",
+    "event": "Family picnic with board games and snacks",
+    "duration": "6 hours",
+    "created_at": "2026-03-19 23:25:12"
+  },
+  "sch_214": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner to celebrate my return and appreciate everyone's efforts",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 23:33:04"
+  },
+  "sch_215": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Family dinner and celebration to honor and thank my family for their thoughtful welcome back",
+    "duration": "3 hours",
+    "created_at": "2026-03-19 23:33:04"
+  },
+  "sch_216": {
+    "time": "2026-03-14 19:00",
+    "location": "Home",
+    "event": "Family dinner and catch-up after my recent exhausting business trip",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 23:33:04"
+  },
+  "sch_217": {
+    "time": "2026-03-12 20:00",
+    "location": "Home, family dining table",
+    "event": "Family dinner with handmade signs and special meal after work trip",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 23:33:04"
+  },
+  "sch_218": {
+    "time": "2026-03-15 20:30",
+    "location": "Home kitchen table",
+    "event": "Family celebration dinner with my favorite meal and a small thank-you ceremony for the handmade signs",
+    "duration": "2 hours",
+    "created_at": "2026-03-19 23:33:06"
+  },
+  "sch_219": {
+    "time": "2026-03-12 08:00",
+    "location": "Home workshop",
+    "event": "Prepare and organize market supplies and back stretches",
+    "duration": "1 hour",
+    "created_at": "2026-03-19 23:54:34"
+  },
+  "sch_220": {
+    "time": "2026-03-15 18:00",
+    "location": "North Kelly, WI",
+    "event": "Call landlord to discuss rent hike and possible options to stay or find a new place",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 01:37:10"
+  },
+  "sch_221": {
+    "time": "2026-03-12 21:00",
+    "location": "Home (kitchen table)",
+    "event": "Call siblings to reconnect after quiet evening and send a short text check-in",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 01:57:23"
+  },
+  "sch_222": {
+    "time": "2026-03-12 19:30",
+    "location": "Home (kitchen table)",
+    "event": "Call or text siblings to catch up and share a bit about my current story work and how the silence feels.",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 01:57:26"
+  },
+  "sch_223": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Walk with my sister",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 02:22:42"
+  },
+  "sch_224": {
+    "time": "2026-03-12 21:00",
+    "location": "Home kitchen table",
+    "event": "Call my siblings to catch up and share thoughts about my new story",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 02:37:33"
+  },
+  "sch_225": {
+    "time": "2026-03-15 19:30",
+    "location": "Home",
+    "event": "Call or video chat with one sibling to reconnect and talk about family",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 02:37:40"
+  },
+  "sch_226": {
+    "time": "2026-03-12 18:00",
+    "location": "Home living room",
+    "event": "Family art evening to go through and sort old drawings together",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 03:54:23"
+  },
+  "sch_227": {
+    "time": "2026-03-11 16:00",
+    "location": "Community Health Clinic",
+    "event": "Follow-up appointment to review hypertension medication change and ask questions",
+    "duration": "45 minutes",
+    "created_at": "2026-03-20 03:54:30"
+  },
+  "sch_228": {
+    "time": "2026-03-12 19:00",
+    "location": "Home workshop",
+    "event": "Start a new soldering project with the tools my cousin dropped off to practice electronics skills",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 04:10:09"
+  },
+  "sch_229": {
+    "time": "2026-03-12 08:00",
+    "location": "Home tennis ball storage",
+    "event": "Resupply tennis balls before morning practice",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 04:19:55"
+  },
+  "sch_230": {
+    "time": "2026-03-12 15:00",
+    "location": "Family farm, living room",
+    "event": "Family fun afternoon with pig drawing and games",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 04:45:55"
+  },
+  "sch_231": {
+    "time": "2026-03-12 16:00",
+    "location": "Home farm house",
+    "event": "Family afternoon drawing and playing together",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 04:45:58"
+  },
+  "sch_232": {
+    "time": "2026-03-12 08:00",
+    "location": "Family trip to [destination]",
+    "event": "Weekend family trip as a reward for school work and routines",
+    "duration": "2 days",
+    "created_at": "2026-03-20 05:28:57"
+  },
+  "sch_233": {
+    "time": "2026-03-12 09:00",
+    "location": "Family trip to nearby nature reserve",
+    "event": "Weekend family trip as reward for Jason's hard work and reliability at school",
+    "duration": "2 days",
+    "created_at": "2026-03-20 05:29:06"
+  },
+  "sch_234": {
+    "time": "2026-03-13 09:00",
+    "location": "Local weekend family trip",
+    "event": "Family weekend trip as reward for reliable school work",
+    "duration": "Full weekend",
+    "created_at": "2026-03-20 05:29:09"
+  },
+  "sch_235": {
+    "time": "2026-03-14 10:00",
+    "location": "Local theme park",
+    "event": "Family weekend trip as a reward for hard work at school",
+    "duration": "2 days",
+    "created_at": "2026-03-20 05:29:09"
+  },
+  "sch_236": {
+    "time": "2026-03-12 18:00",
+    "location": "Home desk",
+    "event": "Quick pre-call camera and microphone check for video meetings",
+    "duration": "5 minutes",
+    "created_at": "2026-03-20 06:06:04"
+  },
+  "sch_237": {
+    "time": "2026-03-12 18:00",
+    "location": "home workshop",
+    "event": "Help Mom organize and check factory invoices after shift so we can keep things running smoothly together.",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 06:21:31"
+  },
+  "sch_238": {
+    "time": "2026-03-20 18:00",
+    "location": "Home living room",
+    "event": "Weekly family chores planning meeting",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 06:30:22"
+  },
+  "sch_239": {
+    "time": "2026-03-15 18:00",
+    "location": "Home kitchen and living room",
+    "event": "Next family meeting to review and update chores chart and plan upcoming tasks",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 06:30:43"
+  },
+  "sch_240": {
+    "time": "2026-03-27 10:00",
+    "location": "Family trip location",
+    "event": "Weekend family trip as reward for school performance",
+    "duration": "2 days",
+    "created_at": "2026-03-20 06:39:44"
+  },
+  "sch_241": {
+    "time": "2026-03-26 09:00",
+    "location": "Local weekend family trip",
+    "event": "Family weekend trip as reward for hard work at school",
+    "duration": "1 day",
+    "created_at": "2026-03-20 06:39:44"
+  },
+  "sch_242": {
+    "time": "2026-03-13 08:00",
+    "location": "Local family trip destination",
+    "event": "Family weekend trip as a reward for my hard work at school",
+    "duration": "2 days",
+    "created_at": "2026-03-20 06:39:44"
+  },
+  "sch_243": {
+    "time": "2026-03-26 09:00",
+    "location": "Family trip to [destination]",
+    "event": "Family weekend trip as a reward for reliable school performance",
+    "duration": "2 days",
+    "created_at": "2026-03-20 06:39:44"
+  },
+  "sch_244": {
+    "time": "2026-03-14 08:00",
+    "location": "City Park",
+    "event": "Family weekend trip reward for school effort",
+    "duration": "2 days",
+    "created_at": "2026-03-20 06:39:46"
+  },
+  "sch_245": {
+    "time": "2026-03-12 09:00",
+    "location": "Local park",
+    "event": "Family weekend trip as reward for reliable behavior at school",
+    "duration": "6 hours",
+    "created_at": "2026-03-20 06:39:47"
+  },
+  "sch_246": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Quick pre-call camera and audio check routine for video staff meetings",
+    "duration": "10 minutes",
+    "created_at": "2026-03-20 07:15:01"
+  },
+  "sch_247": {
+    "time": "2026-03-15 19:30",
+    "location": "Home, with my sister",
+    "event": "Evening relaxation and appreciation dinner after work with my sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 10:01:54"
+  },
+  "sch_248": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Evening relaxation and time with my sister, cooking our favorite veggie meal and enjoying fresh flowers",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 10:02:07"
+  },
+  "sch_249": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Help Mom organize factory paperwork and keep records updated so I can count on her to support me at work",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 11:43:30"
+  },
+  "sch_250": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Family dinner",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 11:50:16"
+  },
+  "sch_251": {
+    "time": "2026-03-15 18:00",
+    "location": "Living room",
+    "event": "Family chore check and weekly board game night",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 11:55:19"
+  },
+  "sch_252": {
+    "time": "2026-03-12 19:00",
+    "location": "Family home living room",
+    "event": "Next family chores chart update and review meeting",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 11:55:22"
+  },
+  "sch_253": {
+    "time": "2026-03-12 08:30",
+    "location": "My living room by the window",
+    "event": "Morning plant-tending and meditation routine to help with grief and emotional balance",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 12:03:57"
+  },
+  "sch_254": {
+    "time": "2026-03-12 15:00",
+    "location": "Home (family call)",
+    "event": "Regular weekly check-in call with my younger brother to update on household essentials and how we’re both doing.",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 12:35:17"
+  },
+  "sch_255": {
+    "time": "2026-03-12 18:30",
+    "location": "Workshop training room",
+    "event": "Mentorship session for new coworker on checkout system",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 13:43:50"
+  },
+  "sch_256": {
+    "time": "2026-03-12 15:00",
+    "location": "Shop floor, near checkout",
+    "event": "Quick mentoring session for new coworker on the checkout system",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 13:43:59"
+  },
+  "sch_257": {
+    "time": "2026-03-15 18:00",
+    "location": "Home living room",
+    "event": "Family board game evening with clear rules and sibling check-in",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 15:05:58"
+  },
+  "sch_258": {
+    "time": "2026-03-15 15:00",
+    "location": "Home living room",
+    "event": "Family board game practice with siblings, where I ask permission before using any pieces",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 15:05:59"
+  },
+  "sch_259": {
+    "time": "2026-03-12 20:00",
+    "location": "Garrett's dorm room",
+    "event": "Work on presentation slides alone while partner is unresponsive",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 15:22:28"
+  },
+  "sch_260": {
+    "time": "2026-03-11 18:00",
+    "location": "University classroom",
+    "event": "Meeting with group partner to discuss presentation deadlines and task division",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 15:22:28"
+  },
+  "sch_261": {
+    "time": "2026-03-11 19:00",
+    "location": "University classroom",
+    "event": "Group presentation final slides check and time management plan with partner",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 15:22:28"
+  },
+  "sch_262": {
+    "time": "2026-03-28 14:00",
+    "location": "local park",
+    "event": "Family picnic to make up for canceled Sunday picnic",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 16:22:53"
+  },
+  "sch_263": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family art night: Jesse and sister look through old drawings, share memories, and create a new piece together",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:16:51"
+  },
+  "sch_264": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening with my sister: cooking a favorite veggie meal and enjoying fresh flowers together",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:25:54"
+  },
+  "sch_265": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Evening with sister: prepare favorite veggie meal together and have fresh flowers ready",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:25:54"
+  },
+  "sch_266": {
+    "time": "2026-03-15 19:30",
+    "location": "Home",
+    "event": "Evening meal and flowers with my sister",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:25:54"
+  },
+  "sch_267": {
+    "time": "2026-03-12 19:00",
+    "location": "Home dining room",
+    "event": "Family dinner where we all take turns planning and cooking",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:50:07"
+  },
+  "sch_268": {
+    "time": "2026-03-12 18:00",
+    "location": "Family room",
+    "event": "Weekly family meeting to review and update the chores chart and shared responsibilities",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 17:51:46"
+  },
+  "sch_269": {
+    "time": "2026-03-20 18:30",
+    "location": "Living room",
+    "event": "Family meeting to review and update chores chart and family responsibilities",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 17:51:46"
+  },
+  "sch_270": {
+    "time": "2026-03-12 19:00",
+    "location": "Campus Library (Presentation group work)",
+    "event": "Group presentation work session with partner to coordinate deadlines and slide updates",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 18:39:37"
+  },
+  "sch_271": {
+    "time": "2026-03-15 20:00",
+    "location": "Campus library",
+    "event": "Prepare presentation slides and outline with group partner",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 18:39:37"
+  },
+  "sch_272": {
+    "time": "2026-03-21 14:00",
+    "location": "Local park near home",
+    "event": "Family picnic to make up for the canceled Sunday picnic",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 18:53:33"
+  },
+  "sch_273": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Prepare work logbook for next shift and organize required items",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 18:55:15"
+  },
+  "sch_274": {
+    "time": "2026-03-11 09:00",
+    "location": "Work safety office",
+    "event": "Drop by office to retrieve logbook after safety meeting",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 18:55:15"
+  },
+  "sch_275": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Check home for work logbook and bring it to work next time",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 18:55:15"
+  },
+  "sch_276": {
+    "time": "2026-03-14 09:00",
+    "location": "Home",
+    "event": "Check and organize dive logbook and safety paperwork",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 18:55:15"
+  },
+  "sch_277": {
+    "time": "2026-04-15 09:00",
+    "location": "City Horticultural Society Exhibition Hall",
+    "event": "Horticultural society exhibition and orchid showcase",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:04:35"
+  },
+  "sch_278": {
+    "time": "2026-03-12 09:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Preparing and showcasing the new orchid at the horticultural society exhibition",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 19:04:35"
+  },
+  "sch_279": {
+    "time": "2026-03-15 08:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and present special new orchid at horticultural society exhibition",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 19:04:35"
+  },
+  "sch_280": {
+    "time": "2026-03-15 05:30",
+    "location": "Home workshop",
+    "event": "Morning joint-stretching routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 19:13:49"
+  },
+  "sch_281": {
+    "time": "2026-03-15 15:00",
+    "location": "Home",
+    "event": "Tea and walk with my daughter to celebrate better blood pressure control",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:32:43"
+  },
+  "sch_282": {
+    "time": "2026-03-15 10:00",
+    "location": "Local park near Shelleychester",
+    "event": "Morning walk with my daughter to celebrate improved blood pressure and share tea together",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 19:32:43"
+  },
+  "sch_283": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Weekend tea and walk with daughter to celebrate good blood pressure results",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:32:43"
+  },
+  "sch_284": {
+    "time": "2026-03-15 10:00",
+    "location": "Home",
+    "event": "Tea and walk with my daughter to celebrate good blood pressure results",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:32:43"
+  },
+  "sch_285": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner to talk about school stress and unwind together",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-20 19:37:49"
+  },
+  "sch_286": {
+    "time": "2026-03-12 18:30",
+    "location": "Home kitchen",
+    "event": "Family dinner to talk about school stress and share feelings",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:37:49"
+  },
+  "sch_287": {
+    "time": "2026-03-15 18:00",
+    "location": "Home living room",
+    "event": "Family board game night with everyone included",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 19:43:25"
+  },
+  "sch_288": {
+    "time": "2026-03-15 07:00",
+    "location": "Shop checkout area",
+    "event": "Quick 5-minute cleanup routine before shift to prepare workspace",
+    "duration": "5 minutes",
+    "created_at": "2026-03-20 20:29:52"
+  },
+  "sch_289": {
+    "time": "2026-03-15 08:00",
+    "location": "Shop checkout area",
+    "event": "Quick 10-minute reset and organize checkout before my shift starts, including checking that coworkers leave the area tidy.",
+    "duration": "10 minutes",
+    "created_at": "2026-03-20 20:29:52"
+  },
+  "sch_290": {
+    "time": "2026-03-12 08:00",
+    "location": "Store checkout area",
+    "event": "Quick cleaning routine and reset checkout area before my shift",
+    "duration": "15 minutes",
+    "created_at": "2026-03-20 20:29:52"
+  },
+  "sch_291": {
+    "time": "2026-03-11 08:00",
+    "location": "Shop checkout area",
+    "event": "Quick pre-shift cleanup routine to address coworker’s mess and set clear expectations",
+    "duration": "15 minutes",
+    "created_at": "2026-03-20 20:29:52"
+  },
+  "sch_292": {
+    "time": "2026-03-12 08:00",
+    "location": "Shop checkout area",
+    "event": "Quick cleaning and checklist before shift starts to minimize time wasted cleaning up after coworkers",
+    "duration": "20 minutes",
+    "created_at": "2026-03-20 20:29:52"
+  },
+  "sch_293": {
+    "time": "2026-03-15 10:00",
+    "location": "Family Doctor’s Office",
+    "event": "Doctor’s checkup for joint stiffness and hypertension",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 20:39:49"
+  },
+  "sch_294": {
+    "time": "2026-03-21 19:00",
+    "location": "Home",
+    "event": "Family dinner and weekly check-in after a busy work week",
+    "duration": "3 hours",
+    "created_at": "2026-03-20 20:46:23"
+  },
+  "sch_295": {
+    "time": "2026-03-15 21:00",
+    "location": "Home",
+    "event": "Evening routine: light poster reorganization and winding down after work",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 20:48:13"
+  },
+  "sch_296": {
+    "time": "2026-03-15 09:00",
+    "location": "Local Family Doctor",
+    "event": "Dad’s doctor’s appointment",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 21:11:04"
+  },
+  "sch_297": {
+    "time": "2026-03-20 09:00",
+    "location": "Family room",
+    "event": "Dad's doctor’s appointment reminder and check-in",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 21:11:04"
+  },
+  "sch_298": {
+    "time": "2026-03-12 19:00",
+    "location": "Video call with daughter",
+    "event": "Weekly video chat to check in on daughter's school and emotional well-being",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 21:12:36"
+  },
+  "sch_299": {
+    "time": "2026-03-12 19:00",
+    "location": "Home (video call)",
+    "event": "Regular weekly video call with my daughter to check in and talk about her school and feelings",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 21:12:36"
+  },
+  "sch_300": {
+    "time": "2026-03-12 14:00",
+    "location": "Local park near home",
+    "event": "Short, pain-friendly walking session with spouse",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 21:22:59"
+  },
+  "sch_301": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Short, gentle daily walking routine to manage back pain and stay active",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 21:22:59"
+  },
+  "sch_302": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family evening with photos and small talk",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 21:28:28"
+  },
+  "sch_303": {
+    "time": "2026-03-12 18:00",
+    "location": "Home - art table",
+    "event": "Redo and finish damaged painting before art club",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 21:38:52"
+  },
+  "sch_304": {
+    "time": "2026-03-15 05:00",
+    "location": "Stable barn",
+    "event": "Early morning routine and safety inspection for the young horse and fencing",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 22:27:05"
+  },
+  "sch_305": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Check-in call with sister to plan next physical therapy session and support her with her back pain",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 22:44:43"
+  },
+  "sch_306": {
+    "time": "2026-03-12 19:00",
+    "location": "Local outpatient physical therapy clinic",
+    "event": "Follow-up session with my sister for her back pain after initial evaluation",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 22:44:43"
+  },
+  "sch_307": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Call with sister to update on her back and plan next steps with physical therapist",
+    "duration": "30 minutes",
+    "created_at": "2026-03-20 22:44:43"
+  },
+  "sch_308": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Check in with sister about her back pain and plan next steps with physical therapist",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 22:44:43"
+  },
+  "sch_309": {
+    "time": "2026-03-11 19:00",
+    "location": "Home office",
+    "event": "Organize reports and map out next week’s consulting schedule",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 22:56:57"
+  },
+  "sch_310": {
+    "time": "2026-03-12 15:00",
+    "location": "local market",
+    "event": "Family joke practice and playdate",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 23:24:26"
+  },
+  "sch_311": {
+    "time": "2026-03-12 14:00",
+    "location": "Home rest area",
+    "event": "Post-drive stretching and quiet mindfulness routine to calm nerves after unpredictable driving moments",
+    "duration": "45 minutes",
+    "created_at": "2026-03-20 23:33:21"
+  },
+  "sch_312": {
+    "time": "2026-03-12 08:00",
+    "location": "Home rest stop",
+    "event": "Brief rest and check-up after long foggy driving shift",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 23:33:21"
+  },
+  "sch_313": {
+    "time": "2026-03-12 19:00",
+    "location": "Home study table",
+    "event": "Quiet evening to review birdwatching notes and listen to Bach, maybe with my spouse",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 23:35:07"
+  },
+  "sch_314": {
+    "time": "2026-03-12 19:00",
+    "location": "Home study room",
+    "event": "Evening birdwatching and journaling with my spouse",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 23:35:07"
+  },
+  "sch_315": {
+    "time": "2026-03-12 22:00",
+    "location": "Home",
+    "event": "Evening wind-down routine and sleep preparation",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 23:50:40"
+  },
+  "sch_316": {
+    "time": "2026-03-12 23:30",
+    "location": "Home",
+    "event": "Evening wind-down routine to support sleep and fatigue management",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 23:50:40"
+  },
+  "sch_317": {
+    "time": "2026-03-14 16:00",
+    "location": "Local community park",
+    "event": "Family Sunday walk tradition to stay connected and share weekly updates",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 23:54:20"
+  },
+  "sch_318": {
+    "time": "2026-03-14 14:30",
+    "location": "City Park",
+    "event": "Family Sunday walk tradition",
+    "duration": "2 hours",
+    "created_at": "2026-03-20 23:54:20"
+  },
+  "sch_319": {
+    "time": "2026-03-21 15:00",
+    "location": "Local city park",
+    "event": "Sunday family walk tradition",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-20 23:54:20"
+  },
+  "sch_320": {
+    "time": "2026-03-21 15:00",
+    "location": "City Central Park",
+    "event": "Family Sunday walk tradition",
+    "duration": "1 hour",
+    "created_at": "2026-03-20 23:54:20"
+  },
+  "sch_321": {
+    "time": "2026-05-21 09:00",
+    "location": "Campsite near Jenniferland, CT",
+    "event": "Family camping trip with morning breakfast, campfire games, and storytelling for the child",
+    "duration": "2 days",
+    "created_at": "2026-03-21 00:14:41"
+  },
+  "sch_322": {
+    "time": "2026-03-12 08:00",
+    "location": "Local campsite",
+    "event": "Family camping trip with breakfast at the site and evening campfire stories for our child",
+    "duration": "3 days",
+    "created_at": "2026-03-21 00:14:41"
+  },
+  "sch_323": {
+    "time": "2026-03-13 19:00",
+    "location": "Home living room",
+    "event": "Family evening with gardening talk and light supper",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 01:41:49"
+  },
+  "sch_324": {
+    "time": "2026-03-12 10:00",
+    "location": "Shop warehouse",
+    "event": "Receive and check critical supplies order after delivery",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 01:58:56"
+  },
+  "sch_325": {
+    "time": "2026-03-15 09:00",
+    "location": "Shop checkout area",
+    "event": "Confirm supplier delivery and adjust shift plan to account for possible late deliveries",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 01:58:56"
+  },
+  "sch_326": {
+    "time": "2026-03-12 10:00",
+    "location": "Shop checkout area",
+    "event": "Review and adjust shift tasks due to late supply delivery (plan for third delay this month)",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 01:58:56"
+  },
+  "sch_327": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family board game night with kids, inspired by old childhood board game",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:00:45"
+  },
+  "sch_328": {
+    "time": "2026-03-13 07:30",
+    "location": "Home",
+    "event": "Morning walking and posture exercise routine to maintain back health and fitness",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 02:05:57"
+  },
+  "sch_329": {
+    "time": "2026-03-15 06:00",
+    "location": "Home walking track",
+    "event": "Morning walking routine to maintain and build on recent back improvement",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 02:05:57"
+  },
+  "sch_330": {
+    "time": "2026-03-12 07:00",
+    "location": "Home",
+    "event": "Morning walking and posture maintenance routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 02:05:57"
+  },
+  "sch_331": {
+    "time": "2026-03-14 19:00",
+    "location": "Home",
+    "event": "Prepare for upcoming project and gaming session with action figures",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:32:59"
+  },
+  "sch_332": {
+    "time": "2026-03-11 11:00",
+    "location": "My apartment",
+    "event": "Fire alarm inspection with landlord technician",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:47:31"
+  },
+  "sch_333": {
+    "time": "2026-03-12 21:00",
+    "location": "Home",
+    "event": "Check fridge, prepare dinner, and relax after groceries arrive",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:59:53"
+  },
+  "sch_334": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Prepare for and complete grocery delivery/errands so evening routine is not disrupted",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:59:53"
+  },
+  "sch_335": {
+    "time": "2026-03-12 18:30",
+    "location": "Home kitchen",
+    "event": "Prepare and store groceries so I can wind down after a long day",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 02:59:53"
+  },
+  "sch_336": {
+    "time": "2026-03-15 14:00",
+    "location": "Local physiotherapy clinic",
+    "event": "Wrist pain assessment and physiotherapy check-up before gallery exhibit",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 03:12:53"
+  },
+  "sch_337": {
+    "time": "2026-03-12 18:00",
+    "location": "Home dining table",
+    "event": "Evening meal with wife and daughter (even if only two of us)",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 03:14:28"
+  },
+  "sch_338": {
+    "time": "2026-03-12 10:00",
+    "location": "Local grocery store baking aisle",
+    "event": "Quick trip to pick up baking ingredients for afternoon tea",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 04:12:57"
+  },
+  "sch_339": {
+    "time": "2026-03-12 15:00",
+    "location": "School desk and backpack",
+    "event": "Check backpack and school desk for lost notebook before next class",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 04:41:18"
+  },
+  "sch_340": {
+    "time": "2026-03-12 19:00",
+    "location": "home kitchen table",
+    "event": "Evening art and reading with daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 04:49:54"
+  },
+  "sch_341": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen table",
+    "event": "Evening sketching and quiet time with my adult daughter, inspired by those old study nights.",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 04:49:54"
+  },
+  "sch_342": {
+    "time": "2026-03-12 20:30",
+    "location": "Home kitchen table",
+    "event": "Quiet evening together with my daughter: drawing, she does homework nearby, we share warm silences",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 04:49:55"
+  },
+  "sch_343": {
+    "time": "2026-03-15 19:00",
+    "location": "Home kitchen",
+    "event": "Order healthy takeout after work to avoid late deliveries",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 05:00:37"
+  },
+  "sch_344": {
+    "time": "2026-03-11 21:30",
+    "location": "Home",
+    "event": "Order takeout using a different delivery app and write a review on time to avoid late deliveries",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 05:00:37"
+  },
+  "sch_345": {
+    "time": "2026-03-12 19:00",
+    "location": "Home, family living room",
+    "event": "Evening check-in and celebration of my daughter’s digital art portfolio showcase",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:09:31"
+  },
+  "sch_346": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Family art and portfolio review evening",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:09:31"
+  },
+  "sch_347": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Family evening to celebrate Wendy's daughter's digital art showcase success and plan future art projects together",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:09:31"
+  },
+  "sch_348": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Weekly check-in with my brother about his anxiety and mindfulness practice",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:18:10"
+  },
+  "sch_349": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Weekly check-in with brother about his anxiety and mindfulness practices",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:18:10"
+  },
+  "sch_350": {
+    "time": "2026-03-10 19:00",
+    "location": "Garrett's room",
+    "event": "Check-in with roommate about stress and meals",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:44:08"
+  },
+  "sch_351": {
+    "time": "2026-03-12 19:00",
+    "location": "Zoom weekly call",
+    "event": "Weekly video call with my siblings to stay connected and share updates",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:47:29"
+  },
+  "sch_352": {
+    "time": "2026-03-15 20:00",
+    "location": "Video call",
+    "event": "Weekly family video call with siblings",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:47:29"
+  },
+  "sch_353": {
+    "time": "2026-03-13 19:00",
+    "location": "Online video call with siblings",
+    "event": "Weekly family check-in call with siblings to share updates and stay connected",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:47:29"
+  },
+  "sch_354": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Help daughter with math quiz review",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-21 05:59:48"
+  },
+  "sch_355": {
+    "time": "2026-03-13 19:00",
+    "location": "Home",
+    "event": "Help daughter with her next math quiz and review time",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:59:48"
+  },
+  "sch_356": {
+    "time": "2026-03-13 19:00",
+    "location": "Home, study table",
+    "event": "Help Daniel's daughter review for her upcoming math quiz",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 05:59:48"
+  },
+  "sch_357": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Help daughter review math quiz and plan future study sessions",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 05:59:48"
+  },
+  "sch_358": {
+    "time": "2026-03-12 15:00",
+    "location": "Behind John's house",
+    "event": "Organized outdoor tag game with neighborhood friends",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 06:01:20"
+  },
+  "sch_359": {
+    "time": "2026-03-12 20:30",
+    "location": "Home phone",
+    "event": "Call parents to check in and catch up",
+    "duration": "15 minutes",
+    "created_at": "2026-03-21 06:12:43"
+  },
+  "sch_360": {
+    "time": "2026-03-15 08:00",
+    "location": "Hotel rooftop garden",
+    "event": "Maintenance and garden inspection to address guest area cleanup",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 06:59:51"
+  },
+  "sch_361": {
+    "time": "2026-03-12 09:00",
+    "location": "Hotel maintenance team",
+    "event": "Scheduled garden check and routine maintenance visit to prevent last-minute chaos.",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 06:59:51"
+  },
+  "sch_362": {
+    "time": "2026-03-10 07:30",
+    "location": "Local sports club",
+    "event": "Morning aerobics session with teammates",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:05:30"
+  },
+  "sch_363": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Evening phone call with dad and brother to talk about health and garage repairs",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:28:54"
+  },
+  "sch_364": {
+    "time": "2026-03-20 18:00",
+    "location": "Home garage",
+    "event": "Family get-together for Dad's birthday",
+    "duration": "4 hours",
+    "created_at": "2026-03-21 07:28:55"
+  },
+  "sch_365": {
+    "time": "2026-03-12 18:30",
+    "location": "Home",
+    "event": "Family dinner and talk about how small gestures like the sandwich help me feel cared for",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:56:51"
+  },
+  "sch_366": {
+    "time": "2026-03-12 18:30",
+    "location": "Home",
+    "event": "Family dinner to celebrate small acts of care and appreciation",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:56:51"
+  },
+  "sch_367": {
+    "time": "2026-03-12 18:00",
+    "location": "Home - Toddhaven",
+    "event": "Family dinner to thank Mom for small thoughtful gestures like leaving my favorite sandwich outside my room",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:56:51"
+  },
+  "sch_368": {
+    "time": "2026-03-11 19:00",
+    "location": "Home kitchen",
+    "event": "Family check-in with mom after school",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 07:56:51"
+  },
+  "sch_369": {
+    "time": "2026-03-12 16:30",
+    "location": "School playground",
+    "event": "Practice how to stay safe if I see a dog near my sister",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 08:11:24"
+  },
+  "sch_370": {
+    "time": "2026-03-15 15:00",
+    "location": "School playground",
+    "event": "Jogging with classmates and checking for stray dogs nearby to keep my younger sister safe",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 08:11:24"
+  },
+  "sch_371": {
+    "time": "2026-03-12 10:00",
+    "location": "home",
+    "event": "Morning rest and quiet routine",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:34:42"
+  },
+  "sch_372": {
+    "time": "2026-03-12 14:00",
+    "location": "Living room",
+    "event": "Quiet rest and relaxation time with headphones",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-21 08:34:42"
+  },
+  "sch_373": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Evening wind-down routine with soft music and quiet time",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:34:42"
+  },
+  "sch_374": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family chess and puzzle session to honor Daniel's daughter's old trophy",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:48:58"
+  },
+  "sch_375": {
+    "time": "2026-03-20 19:00",
+    "location": "Home living room",
+    "event": "Family evening of playing chess and sharing memories about the daughter's old chess trophy",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:48:58"
+  },
+  "sch_376": {
+    "time": "2026-03-12 18:00",
+    "location": "Home living room",
+    "event": "Family chess game with my daughter to commemorate her old trophy",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:48:58"
+  },
+  "sch_377": {
+    "time": "2026-03-12 19:00",
+    "location": "Living room",
+    "event": "Family photo evening to review and sort photos together",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 08:54:35"
+  },
+  "sch_378": {
+    "time": "2026-03-15 15:00",
+    "location": "Local Physical Therapy Clinic",
+    "event": "Joint care physical therapy session and check-in with physical therapist",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 09:01:28"
+  },
+  "sch_379": {
+    "time": "2026-03-15 09:00",
+    "location": "Hospital radiation protection department",
+    "event": "Safety training session for new radiation protection staff",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 09:27:54"
+  },
+  "sch_380": {
+    "time": "2026-03-12 09:00",
+    "location": "Main Conference Room, Hospital",
+    "event": "Workshop for new medical staff on radiation protection and safety protocols",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 09:38:11"
+  },
+  "sch_381": {
+    "time": "2026-03-15 09:00",
+    "location": "Medical staff conference room, South Cynthia Medical Center",
+    "event": "Workshop on radiation safety and protective procedures for new medical staff",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 09:38:11"
+  },
+  "sch_382": {
+    "time": "2026-03-12 18:00",
+    "location": "Home kitchen",
+    "event": "Organize snack cabinet and help my brother find his chips",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 09:45:14"
+  },
+  "sch_383": {
+    "time": "2026-03-12 06:30",
+    "location": "Local park",
+    "event": "Morning jogging run to clear my mind after being nearly knocked over by teens",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 09:49:01"
+  },
+  "sch_384": {
+    "time": "2026-03-12 07:00",
+    "location": "Local park near Berryfort, UT",
+    "event": "Morning jogging run to clear mind and reset routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 09:49:01"
+  },
+  "sch_385": {
+    "time": "2026-03-12 06:30",
+    "location": "local park",
+    "event": "early morning jog to clear my head after being nearly knocked over",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 09:49:01"
+  },
+  "sch_386": {
+    "time": "2026-03-15 06:30",
+    "location": "Local park for morning jog",
+    "event": "Morning jog to clear my mind after a stressful incident",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 09:49:01"
+  },
+  "sch_387": {
+    "time": "2026-03-13 19:00",
+    "location": "Home",
+    "event": "Family dinner where I can thank my mom for cooking something special",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 09:56:14"
+  },
+  "sch_388": {
+    "time": "2026-03-14 15:00",
+    "location": "Home garage",
+    "event": "Family garage workshop day to teach younger cousin basic automotive skills",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 10:01:43"
+  },
+  "sch_389": {
+    "time": "2026-03-15 19:30",
+    "location": "Home",
+    "event": "Review and respond to landlord email about sudden rent increase",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 10:38:47"
+  },
+  "sch_390": {
+    "time": "2026-03-28 19:00",
+    "location": "Home",
+    "event": "Family dinner to check in on my daughter's job worries and offer ongoing support",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 10:51:17"
+  },
+  "sch_391": {
+    "time": "2026-03-07 19:00",
+    "location": "Home",
+    "event": "Family dinner with my adult daughter to check in on her job worries and offer ongoing support",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 10:51:17"
+  },
+  "sch_392": {
+    "time": "2026-03-11 20:00",
+    "location": "Home living room",
+    "event": "Talk calmly about my sticker album with my brother and decide how to share chores and respect each other's things",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 10:58:12"
+  },
+  "sch_393": {
+    "time": "2026-03-12 08:00",
+    "location": "Home",
+    "event": "Quiet time after neighbor's noisy morning routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 11:03:32"
+  },
+  "sch_394": {
+    "time": "2026-03-15 19:30",
+    "location": "Home relaxation routine",
+    "event": "Evening relaxation routine (light stretching, breathing exercises, and a short mindfulness practice to support my stress management and sleep)",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 11:13:54"
+  },
+  "sch_395": {
+    "time": "2026-03-12 19:00",
+    "location": "Living room",
+    "event": "Family game night with mom and siblings",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 11:19:07"
+  },
+  "sch_396": {
+    "time": "2026-03-12 19:00",
+    "location": "Our home living room",
+    "event": "Family game night with snacks and table setting",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 11:19:07"
+  },
+  "sch_397": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Talk with daughter about her dad and school comments",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 12:52:32"
+  },
+  "sch_398": {
+    "time": "2026-03-12 19:00",
+    "location": "Home, after dinner with my family",
+    "event": "Family discussion about supporting my daughter and making sure no one insults our family or her dad’s accent again. I also want to set a recurring check-in time to talk about her feelings and school experiences.",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 12:52:32"
+  },
+  "sch_399": {
+    "time": "2026-03-12 19:00",
+    "location": "home",
+    "event": "Talk with my sister about how to handle my sports card collection more carefully and agree on some simple rules.",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 12:56:06"
+  },
+  "sch_400": {
+    "time": "2026-03-12 18:30",
+    "location": "Home",
+    "event": "Talk with my sister about taking better care of my sports card collection after the water spill",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 12:56:06"
+  },
+  "sch_401": {
+    "time": "2026-03-12 21:30",
+    "location": "Home living room",
+    "event": "Family discussion with sister about handling sports cards and household responsibilities",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 12:56:06"
+  },
+  "sch_402": {
+    "time": "2026-03-12 19:00",
+    "location": "Home - living room table",
+    "event": "Family calm-down and card-sorting time together after sister spilled water on my sports cards",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 12:56:06"
+  },
+  "sch_403": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Check allergy symptoms and take antihistamines before bed",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 12:59:38"
+  },
+  "sch_404": {
+    "time": "2026-03-20 19:30",
+    "location": "Home",
+    "event": "Family meeting to review late-night driving routines and safety rules",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 13:08:42"
+  },
+  "sch_405": {
+    "time": "2026-03-12 21:00",
+    "location": "Home",
+    "event": "Talk with cousin about the broken succulents and set up a calm, specific time to discuss it so I can cool down first.",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 13:19:03"
+  },
+  "sch_406": {
+    "time": "2026-03-20 15:00",
+    "location": "Family farm barn",
+    "event": "Afternoon visit with mom to look at Petal's old drawing and remember happy pig moments",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 13:31:17"
+  },
+  "sch_407": {
+    "time": "2026-03-15 15:00",
+    "location": "East Steveville farm barn",
+    "event": "Family visit to old barn to look at Petal's drawing and remember good times with my sister",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 13:31:17"
+  },
+  "sch_408": {
+    "time": "2026-03-10 15:00",
+    "location": "Local community center dance hall",
+    "event": "Light joint-friendly social dance session with community friends",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 13:44:12"
+  },
+  "sch_409": {
+    "time": "2026-03-15 09:00",
+    "location": "Community Center Physical Therapist Office",
+    "event": "Short gentle joint mobility and balance session to help with joint pain and stiffness from dancing and community events.",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 13:44:12"
+  },
+  "sch_410": {
+    "time": "2026-03-15 14:00",
+    "location": "Home",
+    "event": "Light joint-friendly warm-up and gentle stretching routine to manage stiffness and anxiety before social dance events",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 13:44:12"
+  },
+  "sch_411": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Rest at home and check in with parents about stomach pain",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 14:00:09"
+  },
+  "sch_412": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Family phone call to talk about back care and mutual respect",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 14:05:20"
+  },
+  "sch_413": {
+    "time": "2026-03-15 15:00",
+    "location": "Local park",
+    "event": "Family walk and picnic to strengthen family time",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_414": {
+    "time": "2026-03-12 18:30",
+    "location": "Local park near home",
+    "event": "Family walk and casual evening with partner and child",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_415": {
+    "time": "2026-03-12 19:00",
+    "location": "Local park near home",
+    "event": "Family evening walk with my child and partner to enjoy time together and talk about plans for next month",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_416": {
+    "time": "2026-03-12 15:00",
+    "location": "Local park",
+    "event": "Family walk and picnic to reinforce quality time",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_417": {
+    "time": "2026-03-15 18:00",
+    "location": "Local park",
+    "event": "Family evening walk and quality time together",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_418": {
+    "time": "2026-03-12 18:00",
+    "location": "Local park near home",
+    "event": "Family picnic and weekend evening movie night",
+    "duration": "4 hours",
+    "created_at": "2026-03-21 14:46:25"
+  },
+  "sch_419": {
+    "time": "2026-03-15 15:00",
+    "location": "Local community center",
+    "event": "Supportive conversation and light dance practice with a small group of longtime friends and former dance partners",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:04:14"
+  },
+  "sch_420": {
+    "time": "2026-03-14 18:30",
+    "location": "Home kitchen and living room",
+    "event": "Family dinner with Alfred and partner/child",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:07:43"
+  },
+  "sch_421": {
+    "time": "2026-03-12 19:00",
+    "location": "Home, family room",
+    "event": "Dinner with my partner and child after a long hospital shift",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:07:43"
+  },
+  "sch_422": {
+    "time": "2026-03-15 20:00",
+    "location": "Home",
+    "event": "Family dinner to reconnect after long hospital shifts",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:07:43"
+  },
+  "sch_423": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Family dinner together to reconnect after long hospital shifts",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:07:43"
+  },
+  "sch_424": {
+    "time": "2026-03-12 10:00",
+    "location": "Primary care clinic",
+    "event": "Follow-up appointment for sleep issues and shift work schedule",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 15:09:28"
+  },
+  "sch_425": {
+    "time": "2026-03-12 19:00",
+    "location": "Local clinic",
+    "event": "Follow-up check with sleep specialist after new sleep plan",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 15:09:28"
+  },
+  "sch_426": {
+    "time": "2026-03-12 19:00",
+    "location": "Primary care clinic",
+    "event": "Follow-up sleep health checkup with new doctor",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 15:09:28"
+  },
+  "sch_427": {
+    "time": "2026-03-12 20:00",
+    "location": "Home",
+    "event": "Family art evening with my sister, sorting and choosing which of our old drawings and art pieces we want to keep and maybe frame together.",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 15:32:48"
+  },
+  "sch_428": {
+    "time": "2026-03-10 19:30",
+    "location": "Home",
+    "event": "Family call to talk about work and mutual understanding",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 15:39:56"
+  },
+  "sch_429": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Evening home with sister to enjoy favorite veggie meal and fresh flowers, unwind from work stress",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:41:33"
+  },
+  "sch_430": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Evening meal with sister and flower arrangement",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 15:41:33"
+  },
+  "sch_431": {
+    "time": "2026-03-20 18:30",
+    "location": "Home",
+    "event": "Family dinner to celebrate shared effort and mutual availability",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 16:04:27"
+  },
+  "sch_432": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Weekly family chores and game time organized by Joyce",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 16:06:01"
+  },
+  "sch_433": {
+    "time": "2026-03-15 18:00",
+    "location": "Home kitchen table",
+    "event": "Weekly family chores chart meeting to review and adjust tasks",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 16:06:01"
+  },
+  "sch_434": {
+    "time": "2026-03-12 18:00",
+    "location": "Our home living room",
+    "event": "Family chore check-in meeting to review and adjust the chores chart",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 16:06:01"
+  },
+  "sch_435": {
+    "time": "2026-03-12 07:30",
+    "location": "Home garden",
+    "event": "Morning quiet reflection with plants and affirmation practice",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 16:08:05"
+  },
+  "sch_436": {
+    "time": "2026-03-12 08:00",
+    "location": "Home workshop and garden",
+    "event": "Morning quiet with plants, journaling, and gentle affirmation practice for resilience and grief",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 16:08:05"
+  },
+  "sch_437": {
+    "time": "2026-03-15 10:00",
+    "location": "Shop checkout desk",
+    "event": "Short mentoring session for new coworker on checkout system",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 16:30:13"
+  },
+  "sch_438": {
+    "time": "2026-03-12 12:00",
+    "location": "Shop checkout area",
+    "event": "Check-in with new coworker to review checkout system steps and answer questions",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 16:30:13"
+  },
+  "sch_439": {
+    "time": "2026-03-12 19:00",
+    "location": "Garrett's dorm room",
+    "event": "Finalize and present the group project slides for the deadline",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 16:52:40"
+  },
+  "sch_440": {
+    "time": "2026-03-12 08:00",
+    "location": "Home",
+    "event": "Personal safety and work logbook check before leaving home",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 17:09:21"
+  },
+  "sch_441": {
+    "time": "2026-03-12 09:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and display new orchid for horticultural society exhibition",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 17:19:21"
+  },
+  "sch_442": {
+    "time": "2026-03-15 10:00",
+    "location": "City Horticultural Society Exhibition Hall, Main Hall",
+    "event": "Horticultural Society Exhibition: showcase of new orchid cultivar",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 17:19:21"
+  },
+  "sch_443": {
+    "time": "2026-03-15 08:00",
+    "location": "Local Horticultural Society Exhibition Hall",
+    "event": "Prepare and display special orchid at big horticultural society exhibition",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 17:19:21"
+  },
+  "sch_444": {
+    "time": "2026-03-20 06:00",
+    "location": "Home workshop",
+    "event": "Morning joint-stretching routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 17:28:20"
+  },
+  "sch_445": {
+    "time": "2026-03-12 06:00",
+    "location": "Living room",
+    "event": "Morning joint-stretching routine",
+    "duration": "45 minutes",
+    "created_at": "2026-03-21 17:28:20"
+  },
+  "sch_446": {
+    "time": "2026-03-15 05:30",
+    "location": "Home workshop",
+    "event": "Morning joint-stiffness stretching routine",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 17:28:20"
+  },
+  "sch_447": {
+    "time": "2026-03-12 08:00",
+    "location": "Transport office",
+    "event": "Review and finalize next week’s transport workflow and team assignments",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-21 17:46:29"
+  },
+  "sch_448": {
+    "time": "2026-03-12 10:00",
+    "location": "Local park near Shelleychester",
+    "event": "Tea with my daughter to celebrate improved blood pressure",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 17:48:20"
+  },
+  "sch_449": {
+    "time": "2026-03-15 15:00",
+    "location": "Home",
+    "event": "Celebrate improved blood pressure with my daughter: tea and walk",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 17:48:20"
+  },
+  "sch_450": {
+    "time": "2026-03-15 16:00",
+    "location": "Local park near Shelleychester",
+    "event": "Walk with daughter to celebrate good blood pressure results",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 17:48:20"
+  },
+  "sch_451": {
+    "time": "2026-03-12 19:00",
+    "location": "Home dining table",
+    "event": "Family dinner to talk about school stress and enjoy pasta together",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 17:53:23"
+  },
+  "sch_452": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Family dinner with Mom to talk about school stress",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 17:53:23"
+  },
+  "sch_453": {
+    "time": "2026-03-12 19:30",
+    "location": "home kitchen",
+    "event": "Family dinner to talk about school stress and give Mom a thank-you meal",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 17:53:23"
+  },
+  "sch_454": {
+    "time": "2026-03-15 15:00",
+    "location": "Home",
+    "event": "Restorative self-care session after lab results came back excellent",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 18:15:57"
+  },
+  "sch_455": {
+    "time": "2026-03-12 07:30",
+    "location": "Shop checkout area",
+    "event": "Quick cleanup routine before my shift starts to minimize mess from coworkers",
+    "duration": "20 minutes",
+    "created_at": "2026-03-21 18:42:55"
+  },
+  "sch_456": {
+    "time": "2026-03-15 08:00",
+    "location": "Shop checkout area",
+    "event": "Quick cleaning routine before shift to prepare workspace",
+    "duration": "10 minutes",
+    "created_at": "2026-03-21 18:42:55"
+  },
+  "sch_457": {
+    "time": "2026-03-11 09:00",
+    "location": "Shop checkout area",
+    "event": "Pre-shift 10-minute cleaning routine to prepare checkout area before starting shift",
+    "duration": "10 minutes",
+    "created_at": "2026-03-21 18:42:55"
+  },
+  "sch_458": {
+    "time": "2026-03-12 10:00",
+    "location": "Family Doctor's Office",
+    "event": "Doctor appointment for knee stiffness and general health check",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 18:53:03"
+  },
+  "sch_459": {
+    "time": "2026-03-27 19:00",
+    "location": "Home",
+    "event": "Family dinner and casual evening together",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 18:59:43"
+  },
+  "sch_460": {
+    "time": "2026-03-12 18:30",
+    "location": "Home, vintage poster collection",
+    "event": "Evening routine to reorganize and enjoy vintage movie poster collection after work",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 19:01:36"
+  },
+  "sch_461": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Evening poster reorganization and quiet routine after a chaotic week",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:01:36"
+  },
+  "sch_462": {
+    "time": "2026-03-12 10:00",
+    "location": "Dad's clinic",
+    "event": "Doctor’s appointment for dad",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:24:08"
+  },
+  "sch_463": {
+    "time": "2026-03-15 09:00",
+    "location": "Dad's doctor's office",
+    "event": "Doctor appointment for Dad",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:24:08"
+  },
+  "sch_464": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Short daily walking break for John, limited to his capacity with back pain",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 19:35:46"
+  },
+  "sch_465": {
+    "time": "2026-03-12 09:00",
+    "location": "Home",
+    "event": "Short morning back-friendly walk with spouse to acknowledge my efforts",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 19:35:46"
+  },
+  "sch_466": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Family photo review and weekend family meal",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:40:51"
+  },
+  "sch_467": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Family photo review and conversation about old vacation memories",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 19:40:51"
+  },
+  "sch_468": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family photo review and light conversation about old memories",
+    "duration": "1.5 hours",
+    "created_at": "2026-03-21 19:40:51"
+  },
+  "sch_469": {
+    "time": "2026-03-21 18:00",
+    "location": "Home living room",
+    "event": "Family photo viewing and planning a simple family activity based on old vacation memories",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:40:51"
+  },
+  "sch_470": {
+    "time": "2026-03-12 17:00",
+    "location": "Home art table",
+    "event": "Rework art project that got ruined by spilled juice",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:51:02"
+  },
+  "sch_471": {
+    "time": "2026-03-12 18:00",
+    "location": "School art room",
+    "event": "Art club painting session with backup sketch",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 19:51:02"
+  },
+  "sch_472": {
+    "time": "2026-03-12 06:00",
+    "location": "Remote reservoir dive site",
+    "event": "Pre-dive briefing and equipment check for new reservoir project",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 20:04:40"
+  },
+  "sch_473": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Family movie night to compensate for missed evenings due to work shifts",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 20:23:16"
+  },
+  "sch_474": {
+    "time": "2026-03-12 19:00",
+    "location": "home living room",
+    "event": "Family movie night with no hospital shift, Alfred will be home early",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 20:23:16"
+  },
+  "sch_475": {
+    "time": "2026-03-12 18:30",
+    "location": "Personal study room",
+    "event": "Quiet reading and sermon preparation block (no interruptions)",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 20:33:15"
+  },
+  "sch_476": {
+    "time": "2026-03-12 09:00",
+    "location": "Study room",
+    "event": "Quiet reading and sermon preparation with no interruptions",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 20:33:15"
+  },
+  "sch_477": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Check-in call with my sister to talk about her back and plan next steps with a physical therapist",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 20:54:46"
+  },
+  "sch_478": {
+    "time": "2026-03-11 19:00",
+    "location": "Home (near the phone for easy check-ins)",
+    "event": "Weekly call with my sister to check in on her back pain and decide next steps together",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 20:54:46"
+  },
+  "sch_479": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Call sister about her back pain and plan next therapy session",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 20:54:46"
+  },
+  "sch_480": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Siblings talk about sister's back pain and next steps with physical therapy",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 20:54:46"
+  },
+  "sch_481": {
+    "time": "2026-03-12 19:00",
+    "location": "Home (living room couch)",
+    "event": "Evening call with my sister to talk about her back pain and plan next steps together",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 20:54:46"
+  },
+  "sch_482": {
+    "time": "2026-03-12 17:30",
+    "location": "Home office",
+    "event": "Weekly office organization and report review",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 21:06:22"
+  },
+  "sch_483": {
+    "time": "2026-03-15 20:30",
+    "location": "Home kitchen table",
+    "event": "Evening tea chat with my adult daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 21:11:01"
+  },
+  "sch_484": {
+    "time": "2026-03-15 19:00",
+    "location": "Home living room",
+    "event": "Evening tea and casual chat with daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 21:11:01"
+  },
+  "sch_485": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Evening wind-down routine after long driving shift",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 21:39:59"
+  },
+  "sch_486": {
+    "time": "2026-03-15 20:00",
+    "location": "Home study",
+    "event": "Evening reading and birdwatching journaling session",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 21:41:43"
+  },
+  "sch_487": {
+    "time": "2026-03-14 10:00",
+    "location": "Local city park",
+    "event": "Family Sunday walk tradition to stay connected and share weekly updates",
+    "duration": "1 hour 30 minutes",
+    "created_at": "2026-03-21 21:58:26"
+  },
+  "sch_488": {
+    "time": "2026-03-20 10:00",
+    "location": "City Park",
+    "event": "Sunday family walk to keep our tradition and feel connected",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 21:58:26"
+  },
+  "sch_489": {
+    "time": "2026-03-15 18:30",
+    "location": "Home dining table",
+    "event": "Evening review of horse training notes and planning next session together",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 22:21:58"
+  },
+  "sch_490": {
+    "time": "2026-03-20 10:00",
+    "location": "Local General Practitioner clinic",
+    "event": "Follow-up appointment for chronic lower back pain and cardiovascular health check",
+    "duration": "30 minutes",
+    "created_at": "2026-03-21 22:26:51"
+  },
+  "sch_491": {
+    "time": "2026-03-15 10:00",
+    "location": "Naval Air Station Base Medical Office",
+    "event": "Quarterly health evaluation follow-up and review with flight surgeon",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 22:30:20"
+  },
+  "sch_492": {
+    "time": "2026-03-12 15:00",
+    "location": "Home study desk",
+    "event": "Focused helpdesk ticket handling with no interruptions",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 22:55:32"
+  },
+  "sch_493": {
+    "time": "2026-03-12 09:00",
+    "location": "Home garage",
+    "event": "Work on post-break-in repair and replacement tasks",
+    "duration": "2 hours",
+    "created_at": "2026-03-21 22:57:14"
+  },
+  "sch_494": {
+    "time": "2026-03-11 08:00",
+    "location": "Shop warehouse",
+    "event": "Double-check supply delivery status and confirm arrival time with supplier",
+    "duration": "1 hour",
+    "created_at": "2026-03-21 23:58:46"
+  },
+  "sch_495": {
+    "time": "2026-03-12 09:00",
+    "location": "Shop, receiving area",
+    "event": "Order receiving and restocking after delayed delivery",
+    "duration": "3 hours",
+    "created_at": "2026-03-21 23:58:46"
+  },
+  "sch_496": {
+    "time": "2026-03-20 15:00",
+    "location": "Living room",
+    "event": "Family board game night with old childhood game",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 00:00:35"
+  },
+  "sch_497": {
+    "time": "2026-03-12 06:30",
+    "location": "Home walking track",
+    "event": "Daily walking and posture exercise routine to maintain back health",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 00:06:10"
+  },
+  "sch_498": {
+    "time": "2026-03-12 19:00",
+    "location": "Local sports club court",
+    "event": "Focused doubles practice with clear drills and partner agreement",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 00:27:00"
+  },
+  "sch_499": {
+    "time": "2026-03-12 10:00",
+    "location": "Main Street residential hallway",
+    "event": "Check on elderly neighbor's groceries and offer help",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 00:30:21"
+  },
+  "sch_500": {
+    "time": "2026-03-11 15:00",
+    "location": "Community hallway",
+    "event": "Check on elderly neighbor after helping her with groceries",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 00:30:21"
+  },
+  "sch_501": {
+    "time": "2026-03-15 14:00",
+    "location": "Main Street Apartment Hallway",
+    "event": "Quick walk with elderly neighbor to help carry groceries and check in on her",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 00:30:21"
+  },
+  "sch_502": {
+    "time": "2026-03-14 19:00",
+    "location": "My room and desk",
+    "event": "Prepare and organize my action figure display and study supplies for next week’s project",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 00:32:08"
+  },
+  "sch_503": {
+    "time": "2026-03-12 10:00",
+    "location": "My apartment, 93694 Anderson Lane Apt. 062, Mahoneyville, DE 90043",
+    "event": "Fire alarm inspection by landlord, make sure the apartment is clean and organized for the inspector.",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 00:45:49"
+  },
+  "sch_504": {
+    "time": "2026-03-15 21:00",
+    "location": "Home",
+    "event": "Prepare for and finish up grocery-related tasks for the evening routine",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 00:57:57"
+  },
+  "sch_505": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Check that tomorrow’s groceries arrive and plan a simple evening meal to unwind after work",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 00:57:57"
+  },
+  "sch_506": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Evening dinner with wife when she returns from visiting daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 01:13:03"
+  },
+  "sch_507": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Chat with sister about eco-leadership program and share feelings",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 01:14:50"
+  },
+  "sch_508": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Talk with my sister about the eco-leadership retreat, share how it made me feel, and plan a small eco-friendly evening together.",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 01:14:50"
+  },
+  "sch_509": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening call with sister to talk about her eco-leadership retreat and my feelings about not getting in",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 01:14:50"
+  },
+  "sch_510": {
+    "time": "2026-03-10 15:00",
+    "location": "Home",
+    "event": "Follow-up medical appointment for chest pain and hypertension check",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 01:45:41"
+  },
+  "sch_511": {
+    "time": "2026-03-12 16:00",
+    "location": "Local recital venue",
+    "event": "Son’s recital",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 01:59:40"
+  },
+  "sch_512": {
+    "time": "2026-03-12 19:00",
+    "location": "Home living room",
+    "event": "Family evening chat about sister's new job and each other's feelings",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 02:40:32"
+  },
+  "sch_513": {
+    "time": "2026-03-15 19:00",
+    "location": "Home kitchen table",
+    "event": "Evening quiet time with daughter: shared study and drawing",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 02:47:23"
+  },
+  "sch_514": {
+    "time": "2026-03-12 19:30",
+    "location": "Home kitchen table",
+    "event": "Evening quiet time with daughter and sketching together",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 02:47:23"
+  },
+  "sch_515": {
+    "time": "2026-03-20 19:00",
+    "location": "Home kitchen table",
+    "event": "Evening drawing and quiet time with daughter",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 02:47:23"
+  },
+  "sch_516": {
+    "time": "2026-03-12 19:30",
+    "location": "Home",
+    "event": "Order dinner delivery from a reliable food app with faster delivery",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 02:58:02"
+  },
+  "sch_517": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Evening chat with my adult daughter about her art and future creative plans",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 03:06:23"
+  },
+  "sch_518": {
+    "time": "2026-03-12 19:00",
+    "location": "Virtual video call",
+    "event": "Weekly family call with siblings",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 03:44:36"
+  },
+  "sch_519": {
+    "time": "2026-03-15 19:00",
+    "location": "Home, study table",
+    "event": "Weekly dedicated time to help Daniel's daughter review math homework and prepare for her quizzes",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_520": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Help daughter with math quiz preparation",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_521": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Help daughter with math quiz preparation",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_522": {
+    "time": "2026-03-13 19:00",
+    "location": "Home study table",
+    "event": "Help daughter review for her next math quiz",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_523": {
+    "time": "2026-03-12 19:00",
+    "location": "Home study room",
+    "event": "Help Daniel's daughter with her math quiz and answer questions",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_524": {
+    "time": "2026-03-12 20:30",
+    "location": "Home",
+    "event": "Help Daniel's daughter review math quiz and homework",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 03:56:37"
+  },
+  "sch_525": {
+    "time": "2026-03-12 15:00",
+    "location": "Family farm porch",
+    "event": "Afternoon sketching and quiet time remembering my late husband",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 07:54:01"
+  },
+  "sch_526": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare and tidy guest room for daughter's visit",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 07:55:44"
+  },
+  "sch_527": {
+    "time": "2026-03-12 08:00",
+    "location": "Home farm kitchen",
+    "event": "Prepare and freeze extra soup for Margaret after her surgery",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 07:57:11"
+  },
+  "sch_528": {
+    "time": "2026-03-15 18:00",
+    "location": "Home kitchen",
+    "event": "Family supper with children and neighbors",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 08:00:27"
+  },
+  "sch_529": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Celebrate my son's art competition win with a special family dinner and art project together",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 08:23:28"
+  },
+  "sch_530": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 09:48:41"
+  },
+  "sch_531": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "10-minute eye break for screen work",
+    "duration": "0 hours 10 minutes",
+    "created_at": "2026-03-22 09:53:51"
+  },
+  "sch_532": {
+    "time": "2026-03-12 19:00",
+    "location": "living room",
+    "event": "Family board game time with Linda",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 10:30:34"
+  },
+  "sch_533": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen and living room",
+    "event": "Family dinner and check-in with my son after a tough week at school",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:00:28"
+  },
+  "sch_534": {
+    "time": "2026-03-12 19:00",
+    "location": "Living room study space",
+    "event": "Son's evening study session with quiet music and healthy snacks",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:05:10"
+  },
+  "sch_535": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room for Nancy's daughter visit",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:37:50"
+  },
+  "sch_536": {
+    "time": "2026-03-15 08:00",
+    "location": "Home farm kitchen",
+    "event": "Prepare and freeze extra soup for Margaret after her surgery",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:40:17"
+  },
+  "sch_537": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Evening supper with neighbors or children",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:44:59"
+  },
+  "sch_538": {
+    "time": "2026-03-15 14:00",
+    "location": "Home kitchen table",
+    "event": "Family afternoon tea and stories with children and neighbors",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 11:49:08"
+  },
+  "sch_539": {
+    "time": "2026-03-14 19:00",
+    "location": "Local community art wall",
+    "event": "Family mural painting and evening gathering",
+    "duration": "3 hours",
+    "created_at": "2026-03-22 12:08:45"
+  },
+  "sch_540": {
+    "time": "2026-03-12 10:00",
+    "location": "Mom's clinic",
+    "event": "Follow-up appointment with Mom",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 12:29:43"
+  },
+  "sch_541": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Eye break reminder for 10 minutes of rest and eye relaxation",
+    "duration": "10 minutes",
+    "created_at": "2026-03-22 14:07:11"
+  },
+  "sch_542": {
+    "time": "2026-03-12 19:00",
+    "location": "living room",
+    "event": "Family board game time with Linda",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 14:40:15"
+  },
+  "sch_543": {
+    "time": "2026-03-12 15:00",
+    "location": "Home art corner",
+    "event": "Family art time with Linda's drawing supplies organized",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 14:47:04"
+  },
+  "sch_544": {
+    "time": "2026-03-12 15:00",
+    "location": "Local park by the pond",
+    "event": "Family trip to the park to see ducks and draw pictures",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 14:52:38"
+  },
+  "sch_545": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family dinner with spouse and children",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 15:00:50"
+  },
+  "sch_546": {
+    "time": "2026-03-15 19:00",
+    "location": "Living room study corner",
+    "event": "Son's exam review session",
+    "duration": "2 hours",
+    "created_at": "2026-03-22 15:12:44"
+  },
+  "sch_547": {
+    "time": "2026-03-12 07:00",
+    "location": "Work site, sifting equipment area",
+    "event": "Morning safety briefing and equipment inspection for new safety protocol",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 15:16:43"
+  },
+  "sch_548": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Talk with mom about feeling nervous for sports day and practice some calming exercises",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 16:00:24"
+  },
+  "sch_549": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Follow-up medical appointment for Mom",
+    "duration": "1 hour",
+    "created_at": "2026-03-22 16:30:38"
+  },
+  "sch_550": {
+    "time": "2026-03-12 19:00",
+    "location": "Home kitchen",
+    "event": "Talk with family about fridge rules and snack storage",
+    "duration": "30 minutes",
+    "created_at": "2026-03-22 17:26:45"
+  },
+  "sch_551": {
+    "time": "2026-03-12 19:00",
+    "location": "City apartment of my son",
+    "event": "Grill with my son on his balcony",
+    "duration": "3 hours",
+    "created_at": "2026-03-22 17:34:36"
+  },
+  "sch_552": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Call mom for her birthday and catch up",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 01:03:39"
+  },
+  "sch_553": {
+    "time": "2026-03-12 22:30",
+    "location": "Home",
+    "event": "Quick goodnight message to family group chat before bed",
+    "duration": "5 minutes",
+    "created_at": "2026-03-23 01:09:41"
+  },
+  "sch_554": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Brief family gathering with sister and relatives",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 02:00:07"
+  },
+  "sch_555": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Back pain management routine and light stretching",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 02:20:31"
+  },
+  "sch_556": {
+    "time": "2026-03-12 10:00",
+    "location": "Greenhouse",
+    "event": "Morning greenhouse care and maintenance",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 02:54:00"
+  },
+  "sch_557": {
+    "time": "2026-03-12 10:00",
+    "location": "Local clinic",
+    "event": "Doctor appointment for regular check-up",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 02:54:58"
+  },
+  "sch_558": {
+    "time": "2026-03-12 07:00",
+    "location": "Hospital OR",
+    "event": "Morning surgery preparation routine (tablet review, scrubs laid out, notes checked)",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 02:58:21"
+  },
+  "sch_559": {
+    "time": "2026-03-12 19:00",
+    "location": "Living room study corner",
+    "event": "Son's evening study session and snack break",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 03:12:30"
+  },
+  "sch_560": {
+    "time": "2026-03-15 19:00",
+    "location": "Living room study corner",
+    "event": "Son's exam preparation study session",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 03:16:02"
+  },
+  "sch_561": {
+    "time": "2026-07-10 10:00",
+    "location": "Home",
+    "event": "Family game and music session with niece and nephews",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 03:30:23"
+  },
+  "sch_562": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room for daughter's visit and make sure medical appointments are up to date",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 04:02:50"
+  },
+  "sch_563": {
+    "time": "2026-03-15 08:00",
+    "location": "Home kitchen and barn",
+    "event": "Prepare extra chores and frozen soup for Margaret after her surgery",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 04:04:12"
+  },
+  "sch_564": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 04:06:23"
+  },
+  "sch_565": {
+    "time": "2026-03-13 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room and check medical appointments for daughter's visit",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 04:07:48"
+  },
+  "sch_566": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 04:15:54"
+  },
+  "sch_567": {
+    "time": "2026-03-18 09:00",
+    "location": "Local clinic",
+    "event": "Doctor appointment for health check",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 04:24:58"
+  },
+  "sch_568": {
+    "time": "2026-03-12 10:00",
+    "location": "North Kelly, WI",
+    "event": "Visit aunt in North Kelly to check on her health and see how things feel",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 04:34:10"
+  },
+  "sch_569": {
+    "time": "2026-03-12 07:00",
+    "location": "Home",
+    "event": "Weekend rest and health routine",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 04:35:13"
+  },
+  "sch_570": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call mom for her birthday and catch up",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 04:56:22"
+  },
+  "sch_571": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Parents' anniversary dinner planning and cooking",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 05:18:12"
+  },
+  "sch_572": {
+    "time": "2026-03-12 19:00",
+    "location": "Sandra Lang's apartment",
+    "event": "Family visit to chat and share a meal",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 05:26:02"
+  },
+  "sch_573": {
+    "time": "2026-03-12 19:00",
+    "location": "My apartment",
+    "event": "Family visit and tea time",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 05:39:16"
+  },
+  "sch_574": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 05:54:21"
+  },
+  "sch_575": {
+    "time": "2026-03-12 18:00",
+    "location": "Nearby city",
+    "event": "Family catch-up with cousin who might be working nearby",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 05:55:42"
+  },
+  "sch_576": {
+    "time": "2026-03-12 19:00",
+    "location": "Home study room",
+    "event": "Son's exam review session with healthy snacks and quiet environment",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 07:11:07"
+  },
+  "sch_577": {
+    "time": "2026-03-12 08:00",
+    "location": "Home",
+    "event": "Morning medication reminder for hypertension",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 07:56:28"
+  },
+  "sch_578": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Call grocery delivery service to clarify and confirm specific items for daughter's visit",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 07:56:51"
+  },
+  "sch_579": {
+    "time": "2026-03-15 10:00",
+    "location": "Home",
+    "event": "Call Mom to remind her about follow-up appointment and check details",
+    "duration": "15 minutes",
+    "created_at": "2026-03-23 08:09:43"
+  },
+  "sch_580": {
+    "time": "2026-03-15 10:00",
+    "location": "Home",
+    "event": "Call Mom to confirm follow-up appointment details",
+    "duration": "15 minutes",
+    "created_at": "2026-03-23 08:23:51"
+  },
+  "sch_581": {
+    "time": "2026-03-28 09:00",
+    "location": "Home porch and kitchen",
+    "event": "Family Sunday morning coffee and breakfast together",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 09:15:11"
+  },
+  "sch_582": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Family visit with mom for her physical therapy routine",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 09:33:33"
+  },
+  "sch_583": {
+    "time": "2026-03-15 10:00",
+    "location": "Partner's clinic",
+    "event": "Follow-up health appointment for partner",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 09:37:36"
+  },
+  "sch_584": {
+    "time": "2026-03-15 19:00",
+    "location": "Local soccer field near my apartment",
+    "event": "Catch up with cousin and family after she gets a job nearby",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 09:57:23"
+  },
+  "sch_585": {
+    "time": "2026-03-15 19:00",
+    "location": "Home",
+    "event": "Call daughter to check on her college payment and talk about next steps",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 10:33:15"
+  },
+  "sch_586": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Quiet family dinner and decompression time after noisy neighbor repairs",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 10:37:09"
+  },
+  "sch_587": {
+    "time": "2026-03-12 08:00",
+    "location": "Plant Floor, Sifting Equipment Area",
+    "event": "Shift briefing and safety protocol review for new safety measures",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 10:37:38"
+  },
+  "sch_588": {
+    "time": "2026-03-12 22:00",
+    "location": "Home kitchen",
+    "event": "Family baking and sharing a pie together after my late shift",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 10:59:28"
+  },
+  "sch_589": {
+    "time": "2026-03-15 10:00",
+    "location": "Local clinic",
+    "event": "Annual respiratory checkup for allergy season",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 11:56:28"
+  },
+  "sch_590": {
+    "time": "2026-03-15 08:00",
+    "location": "Home",
+    "event": "Take morning blood pressure medication",
+    "duration": "10 minutes",
+    "created_at": "2026-03-23 12:04:34"
+  },
+  "sch_591": {
+    "time": "2026-03-12 19:00",
+    "location": "Home workshop",
+    "event": "Help sister prepare for new job interviews",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 12:56:16"
+  },
+  "sch_592": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call with daughter to talk about missing her and plan next visit",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 13:43:34"
+  },
+  "sch_593": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my daughter to thank her for the watch part and talk about her",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 13:45:46"
+  },
+  "sch_594": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call daughter to talk about college payments and set up a regular reminder system",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 13:48:43"
+  },
+  "sch_595": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Check in with cousin after surgery and review upcoming appointments",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 15:17:24"
+  },
+  "sch_596": {
+    "time": "2026-03-15 20:00",
+    "location": "Local theater or cinema",
+    "event": "Spontaneous movie night with friends for new Sandra Bullock movie",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 15:42:15"
+  },
+  "sch_597": {
+    "time": "2026-03-15 20:00",
+    "location": "Local theater",
+    "event": "Spontaneous Sandra Bullock movie night with crew",
+    "duration": "3 hours",
+    "created_at": "2026-03-23 16:04:06"
+  },
+  "sch_598": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Daily walk with my sister",
+    "duration": "1 hour",
+    "created_at": "2026-03-23 21:18:19"
+  },
+  "sch_599": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family dinner with brother and Dad to make up for missing Dad's birthday",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 22:03:00"
+  },
+  "sch_600": {
+    "time": "2026-03-15 18:00",
+    "location": "School fundraiser venue",
+    "event": "Double-check and prepare school fundraiser supplies list",
+    "duration": "30 minutes",
+    "created_at": "2026-03-23 22:32:57"
+  },
+  "sch_601": {
+    "time": "2026-03-12 14:00",
+    "location": "Home",
+    "event": "Prepare and confirm grocery delivery for daughter's visit, double-checking requested items",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 23:19:58"
+  },
+  "sch_602": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Family visit to chat and have tea together",
+    "duration": "2 hours",
+    "created_at": "2026-03-23 23:25:36"
+  },
+  "sch_603": {
+    "time": "2026-03-12 19:00",
+    "location": "Local family hangout spot near Oscar's home",
+    "event": "Catch up with cousin who might have a job nearby and reconnect with family",
+    "duration": "2 hours",
+    "created_at": "2026-03-24 00:54:02"
+  },
+  "sch_604": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "30 minutes",
+    "created_at": "2026-03-26 16:49:20"
+  },
+  "sch_605": {
+    "time": "2026-03-15 10:00",
+    "location": "Local park by the pond",
+    "event": "Family picnic and drawing time at the park",
+    "duration": "2 hours",
+    "created_at": "2026-03-26 17:25:57"
+  },
+  "sch_606": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family dinner with spouse",
+    "duration": "2 hours",
+    "created_at": "2026-03-26 20:32:51"
+  },
+  "sch_607": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Quiet family dinner and decompression time after noisy repairs",
+    "duration": "2 hours",
+    "created_at": "2026-03-26 20:43:46"
+  },
+  "sch_608": {
+    "time": "2026-03-12 08:00",
+    "location": "Plant Floor, Shift A",
+    "event": "Shift A safety protocol briefing and equipment inspection",
+    "duration": "2 hours",
+    "created_at": "2026-03-26 20:44:14"
+  },
+  "sch_609": {
+    "time": "2026-03-12 15:00",
+    "location": "Home living room",
+    "event": "Family birthday celebration with cake and bouquet for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-26 23:58:31"
+  },
+  "sch_610": {
+    "time": "2026-03-15 18:00",
+    "location": "Home",
+    "event": "Check in on cousin after surgery and help with any follow-up appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 01:14:33"
+  },
+  "sch_611": {
+    "time": "2026-03-15 20:00",
+    "location": "Local theater or streaming night",
+    "event": "Spontaneous Sandra Bullock movie night with friends",
+    "duration": "3 hours",
+    "created_at": "2026-03-27 02:02:06"
+  },
+  "sch_612": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Spontaneous visit with daughter to discuss science and do word puzzles",
+    "duration": "3 hours",
+    "created_at": "2026-03-27 02:40:04"
+  },
+  "sch_613": {
+    "time": "2026-07-15 08:00",
+    "location": "Family sailing boat at local marina",
+    "event": "Family summer sailing trip departure and route planning meeting",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 07:17:28"
+  },
+  "sch_614": {
+    "time": "2026-08-15 10:00",
+    "location": "Family sailing boat at local marina",
+    "event": "Rescheduled family sailing trip with cousins",
+    "duration": "4 hours",
+    "created_at": "2026-03-27 07:17:56"
+  },
+  "sch_615": {
+    "time": "2026-03-18 19:00",
+    "location": "Home",
+    "event": "Walk with my sister to make up for missing the previous one",
+    "duration": "1 hour",
+    "created_at": "2026-03-27 08:36:41"
+  },
+  "sch_616": {
+    "time": "2026-03-12 15:00",
+    "location": "Local Community Center",
+    "event": "Metallurgy lecture with my son",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 10:15:28"
+  },
+  "sch_617": {
+    "time": "2026-03-12 10:00",
+    "location": "Home",
+    "event": "Medication reminder check and refill",
+    "duration": "30 minutes",
+    "created_at": "2026-03-27 10:17:05"
+  },
+  "sch_618": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Prepare meals for daughter's visit using correct grocery items",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 10:17:35"
+  },
+  "sch_619": {
+    "time": "2026-03-12 15:00",
+    "location": "Home",
+    "event": "Family visit to help me feel less lonely and have regular company",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 10:23:28"
+  },
+  "sch_620": {
+    "time": "2026-03-15 08:00",
+    "location": "Family picnic park",
+    "event": "Family picnic with snacks, soccer ball, and frisbee ready",
+    "duration": "4 hours",
+    "created_at": "2026-03-27 13:07:55"
+  },
+  "sch_621": {
+    "time": "2026-03-12 15:00",
+    "location": "Pharmacy",
+    "event": "Pick up wife's prescription for knee pain",
+    "duration": "1 hour",
+    "created_at": "2026-03-27 13:16:50"
+  },
+  "sch_622": {
+    "time": "2026-03-12 10:00",
+    "location": "Home guest room",
+    "event": "Prepare guest room for daughter's visit and check medical appointments",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 19:03:57"
+  },
+  "sch_623": {
+    "time": "2026-03-15 08:00",
+    "location": "Home",
+    "event": "Help Margaret with chores and visit after her surgery",
+    "duration": "2 hours",
+    "created_at": "2026-03-27 19:05:17"
+  },
+  "sch_624": {
+    "time": "2026-03-12 19:00",
+    "location": "Home",
+    "event": "Call my sister on her birthday",
+    "duration": "1 hour",
+    "created_at": "2026-03-27 20:59:11"
+  },
+  "sch_625": {
+    "time": "2026-03-15 08:00",
+    "location": "Plant floor, sifting equipment area",
+    "event": "Shift start for new safety protocol implementation",
+    "duration": "12 hours",
+    "created_at": "2026-03-28 00:59:19"
+  },
+  "sch_626": {
+    "time": "2026-03-12 18:00",
+    "location": "Home",
+    "event": "Family birthday celebration for wife",
+    "duration": "3 hours",
+    "created_at": "2026-03-28 04:16:30"
+  },
+  "sch_627": {
+    "time": "2026-03-12 10:00",
+    "location": "Home kitchen table",
+    "event": "Family brunch with fresh bread and granddaughter's recipe",
+    "duration": "3 hours",
+    "created_at": "2026-03-28 06:12:27"
+  },
+  "sch_628": {
+    "time": "2026-03-15 18:00",
+    "location": "Near my sister's house",
+    "event": "Walk with my sister to make up for missing the previous one",
+    "duration": "1 hour",
+    "created_at": "2026-03-28 12:04:40"
+  }
+}

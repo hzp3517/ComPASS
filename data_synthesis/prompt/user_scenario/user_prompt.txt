@@ -1,0 +1,25 @@
+Below is the user profile:
+            {base_info}
+            Previously generated scenarios:
+            {prev_scenarios}
+            Please continue generating the next {step} scenarios for this user. 
+            Each scenario should be written in 1-3 sentences from a third-person perspective and should be described specifically.
+
+            Requirements:
+            - Ensure continuity with the previously generated scenarios and avoid contradictions.
+            - You should generate each scene based on this list of emotions respectively:{emotion} , you should carefully generate a scene that suits both the mainline and the emotion setting，Generate {step} scenarios, each corresponding to the following emotions in order: {emotion}.
+            - And for all the situations a person encounter, you should try to cover various topics(eg family issue,work,health etc)
+            - Inspired by EmpatheticDialogues dataset. With each scene, You can refer to {EDref},which is a list that contains {step} scenes that illustrates real situations. 
+            - You should only generate a scene, DO NOT mention other tags.
+            - The whole storyline should unfold within a 1-2 year timeframe, with a gradual progression of time.
+            - Scenario description is not required; please focus on narrating the character's storyline."
+            - The newly generated situation should be no more than one month away from the previous one, and the time distance from the last situation provided by the previous situation should also comply with this constraint.
+            - Output should be a JSON array, where each element is a string describing one scenario.
+
+            FORMAT YOU SHOULD STRICTLY FOLLOWED:
+            You must output **only a valid JSON list**, with no extra text, explanations, or comments before or after it.
+            Correct Example:
+            [
+            {{"scenario": "A friend comforts another friend who is sad."}},
+            {{"scenario": "Someone shares great news about their new job."}}
+            ]

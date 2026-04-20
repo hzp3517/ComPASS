@@ -1,0 +1,16 @@
+{
+    "name": "strengthcard",
+    "description": "Generates one or more 'character strength cards' based on the user's current situation. Each card includes the strength name, a short description (from the VIA character strengths framework), and a personalized encouragement message related to the situation.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "situation": {
+          "type": "string",
+          "description": "The current situation described by the user, e.g., 'I feel anxious about my exams.'"
+        }
+      },
+      "required": ["situation"],
+      "additionalProperties": false
+    }
+  }
+  

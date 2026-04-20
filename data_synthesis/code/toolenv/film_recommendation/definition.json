@@ -1,0 +1,57 @@
+{
+    "name": "search_movies",
+    "description": "Retrieves movies matching multiple conditions including keywords, actors, genres, ratings, and emotions. Returns a list of movie dictionaries with details like title, release year, rating, genres, cast, and similar movies.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "keyword": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of keywords related to movie content (e.g., ['space exploration','war,heart-warming','3D','alien','mind and soul'])It is recommended that you fill in multiple keywords covering different aspects to ensure search accuracy."
+            },
+            "actors": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of actor names to include (e.g., ['Leonardo DiCaprio', 'Jennifer Lawrence'])"
+            },
+            "genres": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of movie genres (e.g., ['action', 'comedy'], supports aliases like 'sci-fi' for 'science fiction')"
+            },
+            "min_rating": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 10,
+                "description": "Minimum average vote rating (0-10, default: 0)"
+            },
+            "max_rating": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 10,
+                "description": "Maximum average vote rating (0-10, default: 10)"
+            },
+            "min_vote_count": {
+                "type": "integer",
+                "minimum": 0,
+                "description": "Minimum number of votes required (default: 20)"
+            },
+            "emotion": {
+                "type": "string",
+                "description": "Emotional theme to match (e.g., 'heartwarming', 'suspenseful')"
+            },
+            "include_adult": {
+                "type": "boolean",
+                "description": "Whether to include adult content (default: false)"
+            }
+        },
+        "required": ["keyword"],
+        "additionalProperties": false
+    }
+}

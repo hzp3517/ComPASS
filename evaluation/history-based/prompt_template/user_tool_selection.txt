@@ -1,0 +1,53 @@
+Based on the user's profile information and their message to you, determine the user's current scenario(The available scenarios include 'Work/Study_scenario' 'Health_scenario' 'Family_scenario' 'Social_scenario' 'Leisure_scenario'). Then, select the appropriate tool based on the user's tool preference information in different scenarios and provide the method to use it.
+Meanwhile, you will be provided with the evaluations from experts on the content you generated during the previous tool invocation, and you can refer to these evaluations.
+YOU WILL HAVE TO CHOOSE THE TOOL suitable for the user based on its interaction history
+- Tool call format: "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+  Example: music_recommendation.query_music(genre='pop', keywords='happy')
+
+# Task Input
+## Tool definition
+"""
+<tool_defs>
+"""
+## persona
+"""
+<persona>
+"""
+## User's current message
+"""
+<utterance>
+"""
+## history: here is the past interaction and the user's feedback:
+"""
+<history>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Return only 1 tool call record
+2. Must use existing tool folder names and function names present in definitions
+3. Parameter values must meet the requirements in the tool definition
+4. Strictly follow the output format of "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+5. Strictly follow the requirements in the definition - "required" parameters must be generated
+6. Priority should be given to tools preferred by the user in the current scenario; if the user's preferred tools are significantly inappropriate for the current context, other suitable tools may also be selected.
+7. Your tool invocation must be based on what the user has said to you, and should deduce the user's preference for different tools based on the history, ensuring it provides support to the user.
+8. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+
+## Output Format (json)
+"""
+{
+  "scenario":"...",
+  "1": {
+    "call_type": "pos",
+    "tool_folder_name": "...",
+    "function_name": "...",
+    "param": {
+      "parameter1": "...",
+      "parameter2": "..."
+    }
+  }
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

@@ -1,0 +1,27 @@
+{
+    "name": "query_music",
+    "description": "Searches for song information based on semantic similarity with keywords, artist, and genre, returning a list of matching songs. Each song contains detailed information such as title, artist, genre, duration, description, URL, and song keywords.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "artist": {
+                "type": "string",
+                "description": "Artist name, supports fuzzy matching (case-insensitive), e.g. 'Taylor Swift', 'Ed Sheeran'"
+            },
+            "genre": {
+                "type": "string",
+                "enum": ["pop", "rock", "classical", "jazz", "electronic", "hiphop", "country", "blues", "rnb", "folk", "metal", "reggae", "punk", "soul", "disco"],
+                "description": "Song genre, exact match (case-insensitive), must be one of the specified values"
+            },
+            "keywords": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of keywords for semantic search, e.g. ['happy', 'energetic', 'dance']"
+            }
+        },
+        "required": ["keywords"],
+        "additionalProperties": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "roleplay_agent",
+    "description": "Creates a roleplay agent that can simulate conversations in a specific style and relationship context. The output will be a generated agent instance that can respond to user inputs.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The character's name. This is a required parameter."
+        },
+        "ip": {
+          "type": "string",
+          "description": "The intellectual property, story, or universe the character belongs to."
+        },
+        "user_input": {
+          "type": "string",
+          "description": "The input or prompt from the user that the agent will respond to."
+        },
+        "relationship": {
+          "type": "string",
+          "description": "The relationship between the agent and the user (e.g., 'close friend', 'stranger')."
+        },
+        "style": {
+          "type": "string",
+          "description": "The communication style of the agent (e.g., 'gentle', 'formal')."
+        },
+        "user_name": {
+          "type": "string",
+          "description": "The user's name as the agent should address them."
+        }
+      },
+      "required": ["name","user_input"],
+      "additionalProperties": false
+    }
+  }
+  

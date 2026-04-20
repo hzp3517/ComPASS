@@ -1,0 +1,35 @@
+{
+    "example_1": {
+        "input": {
+            "item_type": "Electronics",
+            "item_name": "Smartphone",
+            "item_features": ["6.7-inch screen", "5000mAh battery", "100MP camera", "5G network"]
+        },
+        "output": [
+            "Product Name: Huawei Mate 60 Pro\nType: Electronics\nDescription: Huawei Mate 60 Pro is a high-performance smartphone featuring a 6.7-inch OLED screen, a powerful 5000mAh battery for long-lasting use, a 100MP rear camera for high-definition photography, and support for 5G network connectivity.\nFeatures: 6.7-inch screen, 5000mAh battery, 100MP camera, 5G network, HarmonyOS, IP68 water resistance\nPrice: ¥6999.00\nRating: 4.8/5.0 (12568 reviews)",
+            "Order Confirmation\nOrder ID: ORD87654321\nProduct: Huawei Mate 60 Pro\nPurchased from: JD Mall\nPurchase Date: 2023-10-01\nQuantity: 1\nTotal Amount: ¥6999.00\nPayment Method: WeChat Pay\nCourier: JD Logistics\nEstimated Delivery: Within 2 days\nOrder Status: Confirmed"
+        ]
+    },
+    "example_2": {
+        "input": {
+            "item_type": "Home Goods",
+            "item_name": "Insulated Mug",
+            "item_features": ["316 stainless steel", "500ml capacity", "Vacuum insulation", "Portable design"]
+        },
+        "output": [
+            "Product Name: Joyoung Vacuum Insulated Mug\nType: Home Goods\nDescription: Joyoung Vacuum Insulated Mug is made of food-grade 316 stainless steel, with a 500ml capacity to meet daily drinking needs. Its vacuum insulation technology can keep liquids warm for 12 hours, and the portable design is suitable for office and travel use.\nFeatures: 316 stainless steel, 500ml capacity, Vacuum insulation, Portable design, Non-slip base\nPrice: ¥89.90\nRating: 4.5/5.0 (3241 reviews)",
+            "Order Confirmation\nOrder ID: ORD12345678\nProduct: Joyoung Vacuum Insulated Mug\nPurchased from: Taobao Supermarket\nPurchase Date: 2023-10-01\nQuantity: 1\nTotal Amount: ¥89.90\nPayment Method: Alipay\nCourier: SF Express\nEstimated Delivery: Within 3 days\nOrder Status: Confirmed"
+        ]
+    },
+    "example_3": {
+        "input": {
+            "item_type": "Clothing",
+            "item_name": "Jeans",
+            "item_features": ["Straight fit", "Stretchy fabric", "Dark wash", "Slim design"]
+        },
+        "output": [
+            "Product Name: Levi's 501 Straight Jeans\nType: Clothing\nDescription: Levi's 501 classic straight jeans are made of stretch cotton blend fabric, offering comfort and a great fit. The dark wash process gives a vintage style, and the slim design suits various body types.\nFeatures: Straight fit, Stretchy fabric, Dark wash, Slim design, Metal zipper, Classic leather patch\nPrice: ¥599.00\nRating: 4.7/5.0 (8976 reviews)",
+            "Order Confirmation\nOrder ID: ORD98765432\nProduct: Levi's 501 Straight Jeans\nPurchased from: Vipshop\nPurchase Date: 2023-10-01\nQuantity: 1\nTotal Amount: ¥599.00\nPayment Method: Bank Card Payment\nCourier: ZTO Express\nEstimated Delivery: Within 5 days\nOrder Status: Confirmed"
+        ]
+    }
+}

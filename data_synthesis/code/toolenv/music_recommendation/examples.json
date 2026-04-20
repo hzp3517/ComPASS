@@ -1,0 +1,70 @@
+{
+    "example_1": {
+        "input": {
+            "genre": "pop",
+            "keywords": ["love","me"],
+            "limit": 1
+        },
+        "output": [
+            {
+                "id": 1,
+                "title": "Pink Pony Club",
+                "artist": "Chappell Roan",
+                "genre": "pop",
+                "duration": "4:18",
+                "description": "In the words of Chappell Roan herself: 'Pink Pony Club is my love letter to LA. I love this city. LA gave me the courage to be myself because it is ultimately where I feel the most free.' 'Pink Pony Club' is about a small town southern girl dreaming about the drag club culture in Santa Monica, specifically being a dancer at the 'Pink Pony Club'. She knows that her mom won’t be pleased, but she wants to follow her dreams anyway. 'Pink Pony Club' could also be used as a metaphor for queer spaces. Version 6, edited by leyxcx on 24 June 2025, 6:02pm · View version history View version history Edit this wiki",
+                "url": "https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club",
+                "keywords": "Pink Pony Club, Chappell Roan, pop, In the words of Chappell Roan herself: “Pink Pony "
+            }
+        ]
+    },
+    "example_2": {
+        "input": {
+            "artist": "Nina Simone",
+            "genre": "jazz",
+            "keyword": ["freedom"],
+            "limit": 1
+        },
+        "output": [
+            {
+                "id": 158,
+                "title": "Feeling Good",
+                "artist": "Nina Simone",
+                "genre": "jazz",
+                "duration": "2:55",
+                "description": "'Feeling Good' is a powerful and iconic Feeling Good performed by Nina Simone , released on her 1965 I Put a Spell on You . The song was originally written by English composers Anthony Newley and Leslie Bricusse for the 1964 musical The Roar of the Greasepaint - The Smell of the Crowd . Interestingly, while the musical itself had a relatively modest run on Broadway, this particular song would go on to become one of its most enduring legacies. Nina Simone 's rendition of Feeling Good has become one of her most famous and beloved recordings. Her version, arranged and produced by Hal Mooney , was recorded in New York in January 1965. The song's arrangement is particularly notable for its dramatic build-up - beginning with a spare, haunting flute solo before expanding into a full orchestral jazz arrangement that perfectly complements Simone's powerful vocals. The song's lyrics express a sense of renewal and freedom, with vivid imagery of nature and new beginnings. Each verse draws parallels between natural phenomena ( 'birds flying high,' 'sun in the sky,' 'breeze drifting on by' ) and personal liberation, reflecting themes that were particularly resonant during the Civil Rights Movement of the 1960s. Cultural Impact and Legacy The song has been featured extensively in media, including Casino (1995), Six Feet Under (2005), and various commercial campaigns A 2002 Joe Claussell remix for Verve Remixed introduced Nina Simone 's vocals to electronic music audiences Publications like American Songwriter and The Guardian have ranked Feeling Good among Simone's greatest works, praising its emotional depth and vocal mastery Commercial Success and Legacy Feeling Good has achieved remarkable commercial success and critical acclaim over the decades: - The song gained renewed popularity when featured in a Volkswagen commercial, reaching No. 40 on the UK Singles Chart in July 1994. This placement introduced the track to new audiences nearly three decades after its initial release....",
+                "url": "https://www.last.fm/music/Nina+Simone/_/Feeling+Good",
+                "keywords": "Feeling Good, Nina Simone, jazz, 'Feeling Good' is a powerful and iconic Feeling Go"
+            }
+        ]
+    },
+    "example_3": {
+        "input": {
+            "artist": "Taylor Swift",
+            "genre": "folk",
+            "limit": 2
+        },
+        "output": [
+            {
+                "id": 436,
+                "title": "seven",
+                "artist": "Taylor Swift",
+                "genre": "folk",
+                "duration": "3:29",
+                "description": "'seven' is the seventh track from Taylor Swift's eighth studio album, folklore. It was released on July 24, 2020, through Republic Records. This song was confirmed on Taylor’s social media accounts on July 23, 2020. Version 3, edited by kittenchemicals on 18 July 2021, 9:47pm · View version history View version history Edit this wiki",
+                "url": "https://www.last.fm/music/Taylor+Swift/_/seven",
+                "keywords": "seven, Taylor Swift, folk, 'seven' is the seventh track from Taylor Swift's e"
+            },
+            {
+                "id": 437,
+                "title": "exile (feat. Bon Iver)",
+                "artist": "Taylor Swift",
+                "genre": "folk",
+                "duration": "4:45",
+                "description": "'exile' is a song recorded by Taylor Swift, featuring the American band Bon Iver . As the fourth track on Swift's eighth studio album 'folklore', it was written by Swift, William Bowery and Justin Vernon, and produced by Aaron Dessner. The song was serviced to alternative radio stations on August 3, 2020, by Republic Records, as the second single from the album. 'exile' is a gospel-flavored, indie-folk ballad that serves as a duet of unspoken conversation between two former lovers, blending Swift's soft vocals with Vernon's baritone, over a plodding piano, swirling strings and soaring harmonies. “exile” describes two ex-lovers seeing each other following a break-up. Justin Vernon describes feelings of confusion about how quickly a lover moved on, while Swift offers a perspective about repeated warning signs that the relationship was no longer working. It’s also worth noting the contrast between Vernon’s rougher voice and Swift’s smoother one, which mirrors the contrast between their views of the relationship. The song prompted many comparisons to Swift’s 2012 track “The Last Time,” another song that discusses the downfall of a relationship. Much like “exile,” Swift and featured artist Gary Lightbody’s voices contrast in tone, highlighting their differences. “exile” is one of many folklore songs to contain a movie motif — other songs to do so include “the 1,” “this is me trying,” and “hoax.” It’s also her first collaboration with Bon Iver, who she called one of her “musical heroes” in an Instagram post announcing folklore. Swift spoke about the story behind the song in a clip she sent to radio stations in late August 2020: ''exile' is a song that was written about miscommunications in relationships, and in the case of this song, I imagined that the miscommunications ended the relationship. They led to the demise of this love affair, and now these two people are seeing each other out for the first time, and they keep miscommunicating with each other. They can’t quite ...",
+                "url": "https://www.last.fm/music/Taylor+Swift/_/exile+(feat.+Bon+Iver)",
+                "keywords": "exile (feat. Bon Iver), Taylor Swift, folk, 'exile' is a song recorded by Taylor Swift featur"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "example_1": {
+        "input": {
+            "tag": "sad",
+            "subject": "cat",
+            "alternative_descriptions": null,
+            "style": "cartoon",
+            "topk": 1
+        },
+        "output": [
+            "Top results:\nSERdataset/Images/mowkee/sticker_3.jpg"
+        ]
+    },
+    "example_2": {
+        "input": {
+            "tag": "funny",
+            "subject": null,
+            "alternative_descriptions": null,
+            "style": "realistic",
+            "topk": 1
+        },
+        "output": [
+            "Top results:\nSERdataset/Images/nina-coreana-3/sticker_28.jpg"
+        ]
+    },
+    "example_3": {
+        "input": {
+            "tag": "comforting",
+            "subject": null,
+            "alternative_descriptions": "happy hug",
+            "style": "sketch",
+            "topk": 3
+        },
+        "output": [
+            "Top results:\nSERdataset/Images/anime-4/sticker_14.jpg",
+            "SERdataset/Images/couples3/sticker_1.jpg  score=0.3007",
+            "SERdataset/Images/nugget/sticker_8.jpg  score=0.2949"
+        ]
+        }
+}

@@ -1,0 +1,27 @@
+{
+    "example_1": {
+        "input": {
+            "plan": "a tour to Beijing",
+            "theme": "Business action plan",
+            "style": "casual",
+            "additional_requirements": "Include budget considerations and timeline."
+        },
+        "output": "## 1. Problem Definition\n- Organize a business-focused tour to Beijing with a clear schedule and cost estimates.\n\n## 2. Objectives\n- Visit key business centers.\n- Arrange meetings with potential partners.\n- Optimize budget and time.\n\n## 3. Proposed Solution\n1. Research top business districts in Beijing.\n2. Schedule visits and meetings.\n3. Book accommodations and transport considering cost-efficiency.\n4. Prepare daily agenda.\n\n## 4. Implementation Details\n- Tools: travel booking platforms, calendar scheduling software.\n- Timeline: 5-day tour with 2 business meetings per day.\n\n## 5. Risks and Mitigation\n- Flight delays: have backup transport.\n- Meeting cancellations: schedule buffer times."
+    },
+    "example_2": {
+        "input": {
+            "plan": "launch a new product",
+            "theme": "Marketing action plan",
+            "style": "formal"
+        },
+        "output": "## 1. Problem Definition\n- Launching a new product to maximize market impact and awareness.\n\n## 2. Objectives\n- Generate buzz around the product.\n- Drive early adoption.\n- Ensure smooth supply chain.\n\n## 3. Proposed Solution\n1. Develop marketing materials.\n2. Coordinate social media campaigns.\n3. Engage influencers and media.\n4. Monitor early feedback.\n\n## 4. Implementation Details\n- Tools: marketing automation platforms, analytics dashboards.\n- Timeline: 3-month campaign prior to launch.\n\n## 5. Risks and Mitigation\n- Low engagement: adjust campaigns based on analytics.\n- Supply chain delays: secure backup suppliers."
+    },
+    "example_3": {
+        "input": {
+            "plan": "improve personal productivity",
+            "style": "casual",
+            "additional_requirements": "Focus on time management and daily routines."
+        },
+        "output": "## 1. Problem Definition\n- The user wants to enhance daily productivity by organizing tasks efficiently.\n\n## 2. Objectives\n- Establish a structured daily routine.\n- Reduce distractions.\n- Track progress.\n\n## 3. Proposed Solution\n1. List all daily tasks and priorities.\n2. Allocate time blocks for each task.\n3. Use reminders and productivity tools.\n4. Review progress at the end of each day.\n\n## 4. Implementation Details\n- Tools: task manager apps, calendar apps.\n- Timeline: implement changes over 2 weeks and iterate.\n\n## 5. Risks and Mitigation\n- Task overload: adjust schedule weekly.\n- Procrastination: set accountability partners or reminders."
+    }
+}

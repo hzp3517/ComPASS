@@ -1,0 +1,51 @@
+{
+    "name": "retrieve_story",
+    "description": "retrives inspiring story based on the user's current situation and feelings (user prompt). The output will be a coherent text in the chosen theme, type, and style, reflecting the user's emotional context.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "user_prompt": {
+          "type": "string",
+          "description": "A required description of the user's current situation, struggles, or feelings."
+        },
+        "theme": {
+          "type": "string",
+          "enum": [
+            "Learning and Knowledge",
+            "Dreams and Aspirations",
+            "Adversity and Resilience",
+            "Interpersonal Relationships",
+            "Self-Understanding and Growth",
+            "Career and Development",
+            "Daily Emotions and Mood"
+          ],
+          "description": "Optional. The theme under which the story should be developed."
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "Literature and Essays",
+            "Historical Biography",
+            "Real-Life Case Study",
+            "Fable and Parable",
+            "Fictional Character (Film/Novel)"
+          ],
+          "description": "Optional. The narrative form or genre for the story."
+        },
+        "style": {
+          "type": "string",
+          "enum": [
+            "Warm and Comforting",
+            "Passionate and Inspiring",
+            "Analytical and Rational",
+            "Story-Driven and Immersive",
+            "Concise and Philosophical"
+          ],
+          "description": "Optional. The style in which the story should be written."
+        }
+      },
+      "required": ["user_prompt"],
+      "additionalProperties": false
+    }
+  }
+  

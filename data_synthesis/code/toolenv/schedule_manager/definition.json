@@ -1,0 +1,43 @@
+{
+    "name": "schedule_api",
+    "description": "Unified external interface for schedule management, supporting add, delete, update, query, and get all schedule operations. Returns different results based on operation type: add/delete/update return a (bool, str) tuple (success status, message); query/get_all return a list of schedule dictionaries",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "operation": {
+                "type": "string",
+                "enum": ["add", "delete", "update", "query", "get_all"],
+                "description": "Operation type: add (create schedule), delete (remove schedule), update (modify schedule), query (search schedules), get_all (retrieve all schedules)"
+            },
+            "time": {
+                "type": "string",
+                "description": "Schedule time in YYYY-MM-DD HH:MM format. Required for add operation; optional for update and query operations"
+            },
+            "location": {
+                "type": "string",
+                "description": "Schedule location. Required for add operation; optional for update and query operations"
+            },
+            "event": {
+                "type": "string",
+                "description": "Schedule event description. Required for add operation; optional for update and query operations (used as keyword match in query)"
+            },
+            "duration": {
+                "type": "string",
+                "description": "Schedule duration (e.g., '2 hours'). Required for add operation; optional for update operation"
+            },
+            "schedule_id": {
+                "type": "string",
+                "pattern": "^sch_\\d+$",
+                "description": "Schedule ID in the format sch_<number> (e.g., sch_1). Required for delete and update operations"
+            }
+        },
+        "required": ["operation"],
+        "additionalProperties": false,
+        "dependentRequired": {
+            "add": ["time", "location", "event", "duration"],
+            "delete": ["schedule_id"],
+            "update": ["schedule_id"]
+        }
+    }
+}
+    

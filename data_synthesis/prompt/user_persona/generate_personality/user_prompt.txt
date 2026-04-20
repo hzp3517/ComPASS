@@ -1,0 +1,21 @@
+Based on the user's Big Five personality traits (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) with their levels (high, medium, low), describe the user's main personality characteristics in one natural and fluent English sentence. 
+# Task Input
+## User Information
+"""
+<user_info>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. The description should be concise and accurately reflect the combination of each dimension's characteristics.
+2. Use "the user" as the main subject
+2. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "Personality": "..."
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

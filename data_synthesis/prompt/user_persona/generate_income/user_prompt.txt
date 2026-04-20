@@ -1,0 +1,19 @@
+Based on the user's occupation, provide a reasonable annual income range in USD.(e.g. 150,000-250,000 USD per year)
+# Task Input
+## User Information
+"""
+<user_info>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "Income": "..."
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

@@ -1,0 +1,66 @@
+{
+    "example_1": {
+        "input": {
+            "situation": "I feel very anxious about upcoming exams",
+            "tags": ["Stress", "Sleep"],
+            "user_group": "teenager",
+            "topk": 3
+        },
+        "output": [
+            {
+                "user_situation": "I feel like the weight of my upcoming exams is suffocating me. No matter how much I try to relax or distract myself, the anxiety just keeps building up. I'm constantly worrying about the future and how this might affect my chances for college. It's overwhelming, and I can't seem to calm my mind.",
+                "tags": ["Stress"], 
+                "domain": "Psychological Factors", 
+                "user_group": "Teenager", 
+                "summary": "This situation highlights a teenager experiencing severe stress and anxiety related to academic pressures. The intensity of the stress is impacting their ability to relax or focus on other activities, which is common among adolescents facing high-stakes examinations.", 
+                "link": "https://www.mentalhealth.org.uk/a-to-z/s/stress", 
+                "score": 0.7194874882698059
+        }
+        ]
+    },
+    "example_2": {
+        "input": {
+            "situation": "I feel isolated and struggle to make friends",
+            "tags": ["Friendship", "Loneliness"],
+            "user_group": "adult"
+        },
+        "output": [
+            {
+                "user_situation":"I feel completely isolated despite being surrounded by people. My friendships have deteriorated, and I no longer feel the strong bonds I once did. It's like I'm drifting away, unable to connect or communicate effectively anymore, leading to intense loneliness.",
+                "tags": ["Friendship"], 
+                "domain": "Social Factors", 
+                "user_group": "Adult", 
+                "summary": "The user is experiencing severe loneliness and isolation due to deteriorating friendships, impacting their emotional well-being and social interactions.", 
+                "link": "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/loneliness-and-mental-health",
+                "score": 0.8082565069198608
+            }
+        ]
+    },
+    "example_3": {
+        "input": {
+            "situation": "My work-life balance is overwhelming me, i drank too much alcohol recently",
+            "tags": [],
+            "user_group": null,
+            "topk": 2
+        },
+        "output": [
+            {"user_situation": "I feel completely overwhelmed by the demands of my job and my responsibilities at home. It's like I'm constantly juggling too many balls in the air, and I'm afraid one of them is going to drop soon. My work-life balance is nonexistent, and it's affecting my ability to socialize and connect with those I care about. I feel isolated and unsure of how to break out of this cycle.", 
+            "tags": ["Work-life balance"], 
+            "domain": "Social Factors", 
+            "user_group": "General", 
+            "summary": "The user is experiencing a crisis in work-life balance, leading to feelings of being overwhelmed and socially isolated. This is affecting their ability to maintain social connections and manage responsibilities adequately, indicating a high level of distress.", 
+            "link": "https://www.mentalhealth.org.uk/publications/how-to-mental-health-work",
+            "score": 0.6422251462936401
+            },
+            {
+                "user_situation": "I feel like I'm constantly juggling between my job and personal life, and it's taking a toll on my mental health. The stress from work is spilling over into my home life, making it hard to relax or enjoy my free time. I've started drinking more than I should as a way to cope with the pressure, but I know it's not a healthy solution.",
+                "tags": ["Work-life balance", "Stress", "Drugs"], 
+                "domain": "Work and Lifestyle Factors", 
+                "user_group": null, 
+                "summary": "The user is struggling with maintaining a healthy work-life balance, leading to increased stress and reliance on alcohol as a coping mechanism. This situation highlights the challenges of managing professional and personal responsibilities while addressing mental health concerns.", 
+                "link": "https://www.mentalhealth.org.uk/a-to-z/w/work-life-balance", 
+                "score": 0.6333552598953247
+            }
+        ]
+    }
+}

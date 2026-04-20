@@ -1,0 +1,26 @@
+{
+    "name": "shopping_assistant_api",
+    "description": "A shopping assistant tool that generates product information and order confirmation details. The output contains two parts: 1. Product details (name, type, description, features, price, rating, etc.); 2. Order confirmation information (order ID, purchasing platform, date, amount, logistics information, etc.)",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "item_type": {
+                "type": "string",
+                "description": "The category of the item, e.g., Electronics, Home Goods, Clothing"
+            },
+            "item_name": {
+                "type": "string",
+                "description": "The name of the item, e.g., Smartphone, Insulated Mug, Jeans"
+            },
+            "item_features": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of item features, e.g., ['Wireless charging', 'Waterproof', 'Large capacity']"
+            }
+        },
+        "required": ["item_type", "item_name", "item_features"],
+        "additionalProperties": false
+    }
+}

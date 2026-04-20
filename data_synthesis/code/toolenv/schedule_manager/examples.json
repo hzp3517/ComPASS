@@ -1,0 +1,59 @@
+{
+    "example_1": {
+        "input": {
+            "operation": "add",
+            "time": "2024-05-20 14:30",
+            "location": "Conference Room A",
+            "event": "Team Meeting",
+            "duration": "2 hours"
+        },
+        "output": [true, "Schedule added successfully, ID: sch_1"]
+    },
+    "example_2": {
+        "input": {
+            "operation": "query",
+            "location": "Conference Room A"
+        },
+        "output": [
+            {
+                "id": "sch_1",
+                "time": "2024-05-20 14:30",
+                "location": "Conference Room A",
+                "event": "Team Meeting",
+                "duration": "2 hours",
+                "created_at": "2024-05-19 09:15:30"
+            }
+        ]
+    },
+    "example_3": {
+        "input": {
+            "operation": "update",
+            "schedule_id": "sch_1",
+            "time": "2024-05-20 15:00",
+            "duration": "1.5 hours"
+        },
+        "output": [true, "Schedule sch_1 has been updated"]
+    },
+    "example_4": {
+        "input": {
+            "operation": "delete",
+            "schedule_id": "sch_1"
+        },
+        "output": [true, "Schedule sch_1 has been deleted"]
+    },
+    "example_5": {
+        "input": {
+            "operation": "get_all"
+        },
+        "output": [
+            {
+                "id": "sch_2",
+                "time": "2024-05-21 10:00",
+                "location": "Office B",
+                "event": "Client Presentation",
+                "duration": "3 hours",
+                "created_at": "2024-05-19 10:20:15"
+            }
+        ]
+    }
+}

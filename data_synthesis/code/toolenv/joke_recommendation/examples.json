@@ -1,0 +1,48 @@
+{
+    "example_1": {
+        "input": {
+            "category": "animal",
+            "limit": 1
+        },
+        "output": [
+            {
+                "id": 1,
+                "title": "Cat Calls",
+                "category": "Animal",
+                "body": " A veterinarian surgeon had a bad day, but when he got home from tending to all the sick animals, his wife was waiting with a long cool drink and a romantic candle-lit dinner. After dinner, they had a few more drinks and went happily to bed.At about 2:00 in the morning, the phone rang. 'Is this the vet?' asked an elderly lady.'Yes, it is,' replied the vet, 'Is this an emergency?''Well, sort of,' said the elderly lady, 'There's a whole bunch of cats on the roof outside making a terrible noise mating, and I can't get to sleep. What can I do about it?'There was a sharp intake of breath from the vet, who then patiently replied, 'Open the window and tell them they're wanted on the phone.''Really?' said the elderly lady, 'Will that stop them?''Well, it should,' said the vet, 'It stopped ME!'",
+                "keywords": "Cat Calls, animal, veterinarian, cats, elderly lady"
+            }
+        ]
+    },
+    "example_2": {
+        "input": {
+            "keyword": ["boss"],
+            "category": "At Work",
+            "limit": 1
+        },
+        "output": [
+            {
+                "id": 2,
+                "title": "Office Gags",
+                "category": "At Work",
+                "body": "TWO POINT GAGS Run one lap around the office at top speed Groan out loud in the bathroom cubicle (at least one other 'no-player' must be in the bathroom at the time) Ignore the first five people who say 'good morning' to you Phone someone in the office you barely know, leave your name and say 'Just called to say I can't talk right now. Bye' To signal the end of a conversation, clamp your hands over your ears and grimace. When someone hands you a piece of paper, finger it, and whisper huskily,'Mmmmmmm, that feels soooooo good!' Leave your zipper open for one hour. If anyone points it out, say, 'Sorry, I really prefer it this way' Walk sideways to the photocopier. While riding an elevator, gasp dramatically every time the doors open.    THREE-POINT GAGS Say to your boss, 'I like your style' and shoot him with double-barrelled fingers Babble incoherently at a fellow employee then ask 'Did you get all that, I don't want to have to repeat it' Page yourself over the intercom (do not disguise your voice) Kneel in front of the water cooler and drink directly from the nozzle (there must be a 'non-player' within sight). Shout random numbers while someone is counting.    FIVE POINT GAGS At the end of a meeting, suggest that, for once, it would be nice to conclude with the singing of the national anthem (extra points if you actually launch into it yourself). Walk into a very busy person's office and while they watch you with growing irritation, turn the light switch on/off 10 times. For an hour, refer to everyone you speak to as 'Bob'. Announce to everyone in a meeting that you 'really have to go do number two'. After every sentence, say 'mon' in a really bad Jamacian accent. As in, 'the report's on your desk, mon'. Keep this up for one hour. While an office mate is out, move their chair into the elevator. In a meeting or crowded situation, slap your forehead repeatedly and mutter, 'Shut up, damm it, all of you just shut up!' At lunchtime, get down on your knees and announce 'As God is my witness, I'll never go hungry again'. In a colleagues diary, write in 10am: 'See how I look in tights'. Carry your keyboard over to your colleague and ask 'You wanna trade?' Repeat the following conversation 10 times to the same person: 'Do you hear that?' 'What?' 'Never mind, it's gone now' Come to work in army fatigues and when asked why, say, 'I can't talk  about it' Posing as a maitre d', call a colleague and tell him he's won a lunch for four at a local resturant. Let him go. Speak with an accent (French, German, Porky Pig, etc) during a very important conference call. Find the vacuum and start vacuuming around your desk. Hang a two-foot long piece of toilet roll from the back of your pants and act genuinely surprised when someone points it out. Rollerblade around the floor throwing sweets",
+                "keywords": "Office Gags, At Work, boss, office pranks"
+            }
+        ]
+    },
+    "example_3": {
+        "input": {
+            "keyword": ["dad"],
+            "limit": 1
+        },
+        "output": [
+            {
+                "id": 3,
+                "title": "Buttons",
+                "category": "News / Politics",
+                "body": "Saddam Hussein and George W. Bush meet up in Baghdad for the first round of talks in a new peace process. When George sits down, he notices three buttons on the side of Saddam's chair.They begin talking. After about five minutes, Saddam presses the first button. A boxing glove springs out of a box on the desk and punches Bush in the face.        Confused, Bush carries on talking as Saddam laughs. A few minutes later, the second button is pressed. This time a big boot comes out and kicks Bush in the shin. Again Saddam laughs, and again Bush carries on talking, not wanting to put off the bigger issue of peace between the two countries.But when the third button is pressed and another boot comes out and kicks Bush in the privates, he's finally had enough, knowing that he can't do much without them functioning well.'I'm going back home!' he tells the Iraqi. 'We'll finish these talks in two weeks!'A fortnight passes and Saddam flies to the United States for talks. As the two men sit down, Hussein notices three buttons on Bush's chair and prepares himself for the Yank's revenge.They begin talking and George presses the first button. Saddam ducks, but nothing happens. Bush snickers. A few seconds later he presses the second button. Saddam jumps up, but again nothing happens. Bush roars with laughter. When the third button is pressed, Saddam jumps up again, and again nothing happens. Bush falls on the floor in a fit of hysterics.Forget this,' says Saddam. 'I'm going back to Baghdad!' Bush says through tears of laughter, 'What Baghdad?'",
+                "keywords": "Buttons, News / Politics, dad, Saddam Hussein, George W. Bush"
+            }
+        ]
+    }
+}

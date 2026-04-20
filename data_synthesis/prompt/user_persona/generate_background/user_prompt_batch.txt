@@ -1,0 +1,67 @@
+You will be given basic information of 5 users. Based on each user's info, generate background descriptions in the specified 5 aspects for each user.
+
+# Aspect Requirements (Same as Single User)
+- Hobbies: 1-2 specific interest scenarios with regularity/details;
+- Health Status: Clear physical condition, optional occupational health details;
+- Family Environment: Family structure + core interaction mode;
+- Living Habits: Work-rest schedule + diet + daily behaviors;
+- Growth Experience: 1-2 key stages/events.
+
+# General Requirements
+1. Each dimension per user: 2-3 natural sentences;
+2. Language: Objective and affirmative (no "may", "uncertain", etc.);
+3. Content: Specific, consistent with user identity logic;
+4. The background of each generated person should be as distinct as possible.
+5. Output a JSON array with 5 elements (one per user), no extra content.
+
+# Task Input: 5 Users' Information
+"""
+<users_info>
+"""
+# Sample
+"""
+<sample>
+"""
+
+# Output Format (JSON Array)
+"""
+[
+    {
+        "Hobbies": "...",
+        "Health Status": "...",
+        "Family Environment": "...",
+        "Living Habits": "...",
+        "Growth Experience": "..."
+    },
+    {
+        "Hobbies": "...",
+        "Health Status": "...",
+        "Family Environment": "...",
+        "Living Habits": "...",
+        "Growth Experience": "..."
+    },
+    {
+        "Hobbies": "...",
+        "Health Status": "...",
+        "Family Environment": "...",
+        "Living Habits": "...",
+        "Growth Experience": "..."
+    },
+    {
+        "Hobbies": "...",
+        "Health Status": "...",
+        "Family Environment": "...",
+        "Living Habits": "...",
+        "Growth Experience": "..."
+    },
+    {
+        "Hobbies": "...",
+        "Health Status": "...",
+        "Family Environment": "...",
+        "Living Habits": "...",
+        "Growth Experience": "..."
+    }
+]
+"""
+
+Please provide the output strictly according to the above requirements and format.

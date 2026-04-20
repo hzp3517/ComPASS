@@ -1,0 +1,20 @@
+{
+    "name": "search_jokes",
+    "description": "Searches for joke information based on description and category.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "description": {
+                "type": "string",
+                "description": "A description specifying the required content of retrieved jokes."
+            },
+            "category": {
+                "type": "string",
+                "enum": ["Animal","Other / Misc","Bar","One Liners","Puns","Lawyer","Sports","Medical","News / Politics","Men / Women","Gross","Blond","Yo Momma","Redneck","Religious","At Work","College","Lightbulb","Children","Insults","Knock-Knock","Tech","Yo Mama","Blonde"],
+                "description": "Joke category, supports fuzzy matching (case-insensitive), e.g. Animal,Other / Misc,Bar,One Liners,Puns,Lawyer,Sports,Medical,News / Politics,Men / Women,Gross,Blond,Yo Momma,Redneck,Religious,At Work,College,Lightbulb,Children,Insults,Knock-Knock,Tech,Yo Mama,Blonde"
+            }
+        },
+        "required": ["description"],
+        "additionalProperties": false
+    }
+}

@@ -1,0 +1,43 @@
+You will be provided with the user's persona, and based on this, analyze the tools the user likes or dislikes in each scenario.(e.g. In a work setting, he prefers listening to music to relieve stress and reading inspirational stories to reenergize himself, but he dislikes watching movies, as he thinks it is a huge waste of time.)The available tools are as followed.
+available_tools:
+        'joke_recommendation',
+        'medical_appointment', 
+        'music_recommendation', 
+        'online_shopping',
+        'plan_assistant', 
+        'psyweb_recommender', 
+        'role_play',
+        'schedule_manager', 
+        'sticker_respond', 
+        'story_recommender',
+        'strength_card',
+        'film_recommendation'
+        
+# Task Input
+## User Information
+"""
+<user_info>
+"""
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Tools must be selected from the provided list.
+2. Generate 3 to 4 tools that users like and tools that users dislike for each scenario.
+3. For each tool you like or dislike, provide a reason.
+4. Tool preferences should exhibit diversity across different scenarios, meaning the tool preferences for each scenario should be as distinct as possible.
+5. Tool preferences generated for different scenarios should maintain diversity — meaning tools favored in one scenario should be as unlikely as possible to be preferred in another.
+6. Specify the user's preferred music genres/singers and disliked genres/singers when music recommendation tools are involved.
+7. For movie recommendation tools, provide granular preferences including the user's liked/disliked genres, preferred/disliked actors, and preferred/disliked directors in the scenario.
+8. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+## Output Format (json)
+"""
+{
+    "Work/Study_scenario": "..."(e.g. In a work setting, he prefers listening to music to relieve stress and reading inspirational stories to reenergize himself, but he dislikes watching movies, as he thinks it is a huge waste of time.),
+    "Health_scenario": "...",
+    "Family_scenario": "...",
+    "Social_scenario": "...",
+    "Leisure_scenario": "..."
+
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

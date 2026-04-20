@@ -1,0 +1,61 @@
+{
+    "name": "psychology_websites_recommender",
+    "description": "Recommends professional psychology websites based on the given problem type, user group, and number of results to return. The output will be a list of recommended websites with a brief summary on the issue based on the website.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "situation": {
+          "type": "string",
+          "description": "The situation user encounters that reveal's the user's current suffer."
+        },
+        "problem_type": {
+          "type": "string",
+          "description": "The specific psychological or social problem.",
+          "enum": [
+            "Body image",
+            "Problem gambling",
+            "Hearing voices (auditory hallucinations)",
+            "Stigma and discrimination",
+            "Stress",
+            "Trauma",
+            "Debt",
+            "Friendship",
+            "Housing",
+            "Human rights",
+            "Loneliness",
+            "Nature",
+            "Pets",
+            "Work-life balance",
+            "Drugs",
+            "Menopause",
+            "Physical activity",
+            "Physical health",
+            "Sleep",
+            "Smoking"
+          ]
+        },
+        "domain": {
+          "type": "string",
+          "description": "The domain of the psychological issue.",
+          "enum": [
+            "Psychological Factors",
+            "Social Factors",
+            "Lifestyle and Physical Health Factors"
+          ]
+        },
+        "user_group": {
+          "type": "string",
+          "description": "The age group of the user for tailored recommendations.",
+          "enum": ["Children", "Teenager", "Adult", "Elder"]
+        },
+        "topk": {
+          "type": "integer",
+          "description": "The number of top relevant websites to return.",
+          "default": 1
+        }
+      },
+      "required": ["situation","problem_type", "user_group"],
+      "additionalProperties": false
+    }
+  }
+  

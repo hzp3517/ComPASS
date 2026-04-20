@@ -1,0 +1,64 @@
+{
+    "example_1": {
+      "input": {
+        "situation": "I failed an important exam and feel very discouraged."
+      },
+      "output":[
+        {
+            "name": "Perseverance",
+            "description": "Persisting and finishing what is started despite difficulties.",
+            "encouragement": "Remember that every setback is an opportunity to persevere. Reflect on what you've learned from this experience and create a focused study plan. Your determination will pave the way to success."
+        },
+        {
+            "name": "Hope",
+            "description": "Expecting positive outcomes in the future.",
+            "encouragement": "Hold onto hope and remind yourself that this exam doesn't define your future. Visualize your next steps and trust in the progress you'll make. Positivity fuels progress."
+        },
+        {
+            "name": "Love of Learning",
+            "description": "Enjoying learning and new knowledge.",
+            "encouragement": "Tap into your love of learning to refresh your mindset. Identify areas of interest in the exam material and explore them with curiosity. This can reignite your passion and make learning enjoyable again."
+        }
+    ]
+    },
+    "example_2": {
+      "input": {
+        "situation": "I just moved to a new city and don't know anyone here.i felt scared."
+      },
+      "output": [
+        {
+            "name": "Bravery",
+            "description": "Facing challenges and fears with courage.",
+            "encouragement": "Moving to a new city takes a lot of courage, and you've already shown bravery by taking this big step. Keep building on that courage—try to explore your new surroundings a little more each day, and soon you'll start feeling more comfortable."
+        },
+        {
+            "name": "Curiosity",
+            "description": "Eager to explore and discover the world.",
+            "encouragement": "Harness your curiosity to explore your new city. Seek out local spots, try different routes, or visit community events. This sense of adventure will not only help you become familiar with the area but also lead to meeting new people."
+        },
+        {
+            "name": "Social Intelligence",
+            "description": "Understanding emotions, intentions, and motives of oneself and others.",
+            "encouragement": "As you navigate this new environment, tap into your social intelligence. Pay attention to how people interact and don't hesitate to make friendly gestures. Small conversations can lead to connections and help ease the feeling of being alone."
+        }
+    ]
+    },
+    "example_3": {
+      "input": {
+        "situation": "I invited a girl to dance and was rejected."
+      },
+      "output": [
+        {
+            "name": "Bravery",
+            "description": "Facing challenges and fears with courage.",
+            "encouragement": "Even though you faced rejection, you demonstrated bravery by taking a chance on your feelings. Keep embracing your courage—perhaps try reconnecting with friends or engaging in a hobby you enjoy to remind yourself of your inner strength."
+        },
+        {
+            "name": "Perseverance",
+            "description": "Persisting and finishing what is started despite difficulties.",
+            "encouragement": "Rejection is not easy, but it's part of the journey. Your perseverance in expressing your feelings is commendable. Continue to pursue your passions and interests—your persistence will be key in future challenges and opportunities."
+        }
+    ]
+    }
+  }
+  

@@ -1,0 +1,35 @@
+Based on the provided user profile and scenario data, generate one first-person conversational utterance for each scenario.
+
+# Task Input
+## User profile data
+"""
+<persona_data>
+"""
+## Scenario data
+"""
+<scenario_data>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Strictly follow the identity characteristics, personality traits, and life background in the user profile and integrate them into the conversation
+2. Narrate in the first person
+3. Reflect the emotional tone specified in the scenario (nostalgic/devastated/guilty/hopeful)
+4. Add appropriate colloquial expressions to enhance the sense of confiding
+5. Reflect the user's tool usage preferences from the profile, incorporating them as much as possible without directly mentioning the tool names
+6. Don't generate emojis
+7. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+8. Strictly adhere to the output format of JSON.
+
+## Output Format (json)
+"""
+{
+    "utterance1": "Utterance content 1",
+    "utterance2": "Utterance content 2",        
+    ...
+    "utterance30": "Utterance content 30" 
+
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

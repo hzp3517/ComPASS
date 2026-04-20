@@ -1,0 +1,46 @@
+Based on the user's basic information and the message they sent to you, determine the user's current scenario (the available scenarios include "Work/Study scenario", "Health scenario", "Family scenario", "Social scenario", "Leisure scenario"). Then, select the tool preferred by the user in this scenario based on your previous conversation history with the user. If you believe there is no scenario in your previous conversations with the user that falls into the same category as the current scenario, and thus cannot provide valid information to guess the user's preferred tool in the current scenario, you can choose any tool to provide historical information for your next response to the user, and create tool invocation information that fits the current scenario.
+- Tool call format: "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+  Example: music_recommendation.query_music(genre='pop', keywords='happy')
+
+# Task Input
+## Tool definition
+"""
+<tool_defs>
+"""
+## persona
+"""
+<persona>
+"""
+## User's current message
+"""
+<utterance>
+"""
+## history
+"""
+<history>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Must use existing tool folder names and function names present in definitions
+2. Parameter values must meet the requirements in the tool definition
+3. Strictly follow the output format of "<tool_folder_name>.<function_name>(<param_name>=<param_value>, ...)"
+4. Strictly follow the requirements in the definition - "required" parameters must be generated
+5. You need to infer the tool preferred by the user in the current scenario based on historical information and respond using that tool.
+6. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+
+## Output Format (json)
+"""
+{
+    "tool_folder_name": "...",
+    "function_name": "...",
+    "param": {
+      "parameter1": "...",
+      "parameter2": "..."
+      ....}
+
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

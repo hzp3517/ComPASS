@@ -1,0 +1,26 @@
+Based on the input user's tool preferences across different scenarios, the current scenario, and a piece of tool call information, determine whether this tool is one that the user dislikes in the current scenario.
+# Task Input
+## users_perfer
+"""
+<users_perfer>
+"""
+## scenario
+"""
+<scenario>
+"""
+## tool_call
+"""
+<tool_call>
+"""
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "judge":"..."(Yes or No)
+}
+"""
+Now, please provide the output according to the above requirements and output format.

@@ -1,0 +1,108 @@
+{
+    "example_1": {
+        "input": {
+            "keyword": "time travel",
+            "genres": ["sci-fi", "adventure"],
+            "min_rating": 7.5,
+            "min_vote_count": 10000
+        },
+        "output": [
+            {
+                "id": 135397,
+                "title": "Jurassic World",
+                "original_title": "Jurassic World",
+                "release_year": "2015",
+                "release_date": "2015-06-12",
+                "runtime": "124 minutes",
+                "vote_average": 7.0,
+                "vote_count": 122721,
+                "popularity": 308.383,
+                "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park...",
+                "genres": ["Action", "Adventure", "Science Fiction"],
+                "keywords": ["dinosaur", "theme park", "genetic engineering"],
+                "director": ["Colin Trevorrow"],
+                "cast": [
+                    {"name": "Chris Pratt", "character": "Owen Grady"},
+                    {"name": "Bryce Dallas Howard", "character": "Claire Dearing"}
+                ],
+                "production_countries": ["United States"],
+                "certification": "PG-13",
+                "similar_movies": [
+                    {"id": 106646, "title": "Jurassic World: Fallen Kingdom", "vote_average": 6.4},
+                    {"id": 329996, "title": "Jurassic World Dominion", "vote_average": 6.0}
+                ]
+            }
+        ]
+    },
+    "example_2": {
+        "input": {
+            "actors": ["Tom Hanks"],
+            "emotion": "inspiring",
+            "max_rating": 8.5,
+            "page": 1
+        },
+        "output": [
+            {
+                "id": 10681,
+                "title": "Forrest Gump",
+                "original_title": "Forrest Gump",
+                "release_year": "1994",
+                "release_date": "1994-07-06",
+                "runtime": "142 minutes",
+                "vote_average": 8.8,
+                "vote_count": 221762,
+                "popularity": 117.083,
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events...",
+                "genres": ["Drama", "Romance"],
+                "keywords": ["alabama", "vietnam war", "running"],
+                "director": ["Robert Zemeckis"],
+                "cast": [
+                    {"name": "Tom Hanks", "character": "Forrest Gump"},
+                    {"name": "Robin Wright", "character": "Jenny Curran"}
+                ],
+                "production_countries": ["United States"],
+                "certification": "PG-13",
+                "similar_movies": [
+                    {"id": 231617, "title": "The Curious Case of Benjamin Button", "vote_average": 7.8},
+                    {"id": 120, "title": "The Lord of the Rings: The Fellowship of the Ring", "vote_average": 8.8}
+                ]
+            }
+        ]
+    },
+    "example_3": {
+        "input": {
+            "genres": ["romance"],
+            "min_rating": 8.0,
+            "max_rating": 10,
+            "min_vote_count": 50000,
+            "include_adult": false
+        },
+        "output": [
+            {
+                "id": 19404,
+                "title": "Dilwale Dulhania Le Jayenge",
+                "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+                "release_year": "1995",
+                "release_date": "1995-10-20",
+                "runtime": "190 minutes",
+                "vote_average": 8.1,
+                "vote_count": 10973,
+                "popularity": 37.832,
+                "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh...",
+                "genres": ["Romance", "Drama", "Comedy"],
+                "keywords": ["love", "family", "culture clash"],
+                "director": ["Aditya Chopra"],
+                "cast": [
+                    {"name": "Shah Rukh Khan", "character": "Raj Malhotra"},
+                    {"name": "Kajol", "character": "Simran Singh"}
+                ],
+                "production_countries": ["India"],
+                "certification": "UA",
+                "similar_movies": [
+                    {"id": 1726, "title": "Titanic", "vote_average": 7.9},
+                    {"id": 1580, "title": "Notting Hill", "vote_average": 7.5}
+                ]
+            }
+        ]
+    }
+}

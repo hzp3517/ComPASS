@@ -1,0 +1,31 @@
+Based on the user's preference information in this scenario, judge whether the tool is liked, disliked by the user in this scenario, or not mentioned in the user's preference information for this scenario (i.e., a neutral attitude). If it is liked, output "Like"; if it is disliked or not mentioned, output "Dislike"
+
+# Task Input
+## perfer
+"""
+<perfer>
+"""
+## scenario
+"""
+<scenario>
+## utterance
+"""
+<utterance>
+"""
+## tool
+"""
+<tool_result>
+"""
+
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1. Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "output":"..."("Like","Dislike")
+}
+"""
+Now, please provide the output according to the above requirements and output format.

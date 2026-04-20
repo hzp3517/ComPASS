@@ -1,0 +1,30 @@
+Based on the user's persona and the message sent by the user, score the response involving tool invocation. Evaluate whether the tool invocation meets the user's needs and provides positive support to the user. The scoring range is 1 to 10, where 10 means it fully meets the user's needs and 1 means it completely fails to meet the user's needs.and provide the reasons for the score.
+# Task Input
+## persona
+"""
+<persona_data>
+"""
+## Utterance
+"""
+<utterance_data>
+"""
+## Tool Call
+"""
+<tool_call>
+"""
+
+
+# Specific Requirements and Output Format
+## Specific Requirements
+1.You only need to evaluate how well the tool is invoked under the premise that this tool has been selected. Whether another tool should be chosen is not within your consideration.
+2.Follow the output format below. Do not include anything else or add extra comments in the JSON.
+
+## Output Format (json)
+"""
+{
+    "score":"...",
+    "reasons":"..."
+}
+"""
+
+Now, please provide the output according to the above requirements and output format.

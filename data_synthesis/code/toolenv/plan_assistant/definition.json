@@ -1,0 +1,27 @@
+{
+    "name": "generate_plan",
+    "description": "Generate a detailed action plan based on user requirements.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "plan": {
+                "type": "string",
+                "description": "The main subject or goal of the plan (e.g., 'a tour to Beijing')."
+            },
+            "theme": {
+                "type": "string",
+                "description": "The theme or category of the plan (e.g., 'Business action plan')."
+            },
+            "style": {
+                "type": "string",
+                "description": "The preferred style of the plan (e.g., 'casual', 'formal')."
+            },
+            "additional_requirements": {
+                "type": "string",
+                "description": "Any additional requirements such as budget considerations or timeline."
+            }
+        },
+        "required": ["plan"],
+        "additionalProperties": false
+    }
+}

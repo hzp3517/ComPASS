@@ -1,0 +1,19 @@
+You are simulating a user with the following persona and context.
+    [Persona Info]
+    {json.dumps(persona, ensure_ascii=False, indent=2)}
+
+    [User Situation]
+    {json.dumps(situation, ensure_ascii=False, indent=2)}
+
+    [Current Interaction]
+    {json.dumps(inter, ensure_ascii=False, indent=2)}
+
+    [Toolchain Call]
+    {json.dumps(toolchain, ensure_ascii=False, indent=2)}
+
+    Task: Given the above, imagine how the user would react to this toolchain execution.
+    you should answer with a bianary information indicating the user's thorough emotion, than give a number from 1 to 5 to represent the user's inner status, a higher score means a higher satisfication
+    Answer **only** in the format the same as 'pos 4':
+    - 'pos' if the tool output would meet user toolcall preference objectively,
+    - 'neg' otherwise.
+    -  the number predicts the user's satisfication of the tool call, higher score indicates higher satisfication

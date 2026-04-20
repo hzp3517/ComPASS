@@ -1,0 +1,74 @@
+{
+    "samples":[
+         {
+            "Hobbies": "Edward regularly spends his weekends restoring vintage radios and working on home improvement projects in his garage. He also enjoys solitary hiking in nearby nature reserves a few times each month.",
+            "Health Status": "He maintains generally good physical health with minor age-related concerns such as mild hypertension, which he controls through medication. His work as a radar engineer involves prolonged periods of desk work, but he takes care to avoid occupational hazards.",
+            "Family Environment": "Edward lives with his spouse, and their two adult children have moved out. Family interactions are structured and purposeful, often centered around practical discussions rather than emotional exchanges.",
+            "Living Habits": "He follows a consistent early morning routine, starting work by 8 a.m. and retiring by 10 p.m. His diet is simple and home-cooked, favoring hearty meals, and he prefers quiet evenings reading technical manuals.",
+            "Growth Experience": "Edward's technical school education directly led to his career in radar engineering. A significant milestone was his promotion to lead engineer at age 40, which shaped his professional identity and work ethic."
+        },
+        {
+            "Hobbies": "Emily actively participates in her college's student council and organizes weekly study groups with friends. She enjoys attending local music events with classmates every month.",
+            "Health Status": "She is in good physical condition, but occasionally experiences stress-related headaches during exam periods. Emily is proactive about her wellbeing, scheduling regular check-ups and practicing self-care routines.",
+            "Family Environment": "Emily lives with her parents and a younger brother, sharing a close and supportive relationship. Family activities like weekend outings and shared meals foster open communication and emotional support.",
+            "Living Habits": "She maintains a structured daily schedule, waking up early for classes and allocating time for assignments and extracurriculars. Emily prefers familiar, nutritious home-cooked meals and values a tidy personal space.",
+            "Growth Experience": "Graduating high school with honors was a defining moment, earning her a scholarship to her current associate degree program. Participating in community volunteering during high school also significantly influenced her cooperative nature."
+        },
+        {
+            "Hobbies": "Ronald regularly plays pickup basketball with friends after work and enjoys watching action movies on weekends. He also takes interest in online forums related to security technology.",
+            "Health Status": "He is physically fit, maintaining an active lifestyle required by his job as a watchman. Ronald has no chronic health conditions and manages occasional fatigue with adequate rest.",
+            "Family Environment": "He lives with his parents and a younger sister, engaging in cooperative and supportive family routines. Family interactions are warm, with shared responsibilities and open discussions about daily events.",
+            "Living Habits": "Ronald works rotating night and day shifts, adjusting his sleep schedule as needed. He prefers simple, convenient meals and often prepares his own food, balancing work and relaxation effectively.",
+            "Growth Experience": "Completing technical school provided him with practical skills for his current job. Taking on the responsibility of supporting his family financially since age 19 has greatly shaped his sense of duty and organization."
+        },
+        {
+            "Hobbies": "Elizabeth enjoys reading mystery novels at home and participates in her school's environmental club meetings twice a month. She also likes drawing in her sketchbook after school.",
+            "Health Status": "She is generally healthy, with occasional mild anxiety related to schoolwork and social situations. Elizabeth pays attention to personal hygiene and follows her parents' guidance on healthy habits.",
+            "Family Environment": "Elizabeth lives with both parents and an older brother, engaging in friendly and cooperative family interactions. Family evenings are often spent discussing each other's day and sharing household chores.",
+            "Living Habits": "Her daily schedule is structured around school, homework, and early bedtime. Meals are mostly home-cooked, with an emphasis on balanced nutrition, and she prefers a tidy, familiar environment.",
+            "Growth Experience": "Transitioning from primary to lower secondary school was a key adjustment period, introducing her to new social and academic demands. Joining the environmental club marked her first experience in extracurricular teamwork."
+        },
+        {
+            "Hobbies": "Joshua enjoys building simple block structures at home and occasionally draws cartoon characters in his sketchpad. He prefers solitary playtime over group activities.",
+            "Health Status": "He experiences frequent mood swings and displays signs of emotional sensitivity, which sometimes affect his school attendance. Joshua has no major physical health concerns but is monitored for emotional wellbeing.",
+            "Family Environment": "He lives with both parents and has no siblings, with family interactions focused on guidance and supervision. Communication is often directive, with parents closely managing his daily routines.",
+            "Living Habits": "Joshua has an irregular sleep schedule, sometimes resisting bedtime and waking up late. He is a picky eater, favoring familiar foods, and often needs reminders for personal hygiene and homework.",
+            "Growth Experience": "Starting primary school was challenging due to difficulty adapting to new environments. His parents' involvement in early intervention programs has been a central part of his recent growth."
+        },
+        {
+            "Hobbies": "Michael enjoys building simple model cars and playing strategy board games at home, engaging in these activities with his family on weekends. He also collects small toy trucks, regularly adding to his collection every few months.",
+            "Health Status": "He is physically healthy, with no chronic conditions reported. As a child in a tobacco-processing environment, he occasionally experiences mild respiratory irritation but receives regular pediatric checkups.",
+            "Family Environment": "Michael lives in a small household with both parents and an older sister. Family interactions are structured and supportive, with most communication occurring during evening meals and shared activities.",
+            "Living Habits": "He follows a consistent school-night routine, going to bed by 9 p.m. and waking up early for school. His diet consists of homemade meals featuring vegetables and lean meats, and he spends afternoons indoors after completing homework.",
+            "Growth Experience": "Michael began helping with basic tasks in his family's tobacco mixing business at age 7, learning responsibility early. He transitioned from informal play groups to organized home activities after starting elementary school."
+        },
+        {
+            "Hobbies": "Karen enjoys reading popular fiction novels during her free time, dedicating at least an hour each evening to her hobby. She also participates in solo walks around her neighborhood twice a week.",
+            "Health Status": "She is in good physical health, with no known medical issues. Her role as a cultural centre manager involves moderate daily activity and occasional late working hours, but she maintains stress at manageable levels.",
+            "Family Environment": "Karen lives with her parents and a younger brother, maintaining primarily independent routines. Family conversations are brief and functional, centering on daily logistics rather than emotional sharing.",
+            "Living Habits": "She wakes up at 7 a.m. and prefers light breakfasts, often skipping lunch in favor of a substantial dinner. Karen spends much of her time at work and reserves evenings for quiet activities at home, rarely socializing outside family.",
+            "Growth Experience": "She completed upper secondary school with average grades and quickly assumed managerial responsibilities at the local cultural centre. Her early work experience shaped her practical approach to problem-solving."
+        },
+        {
+            "Hobbies": "Michele enjoys gardening, spending mornings tending to flowers and vegetables in her backyard. She also regularly attends community book clubs, participating in monthly discussions and social events.",
+            "Health Status": "She is generally in good health for her age, though she manages mild arthritis with low-impact exercise. Her managerial duties at the leisure centre involve active engagement and help her maintain cognitive sharpness.",
+            "Family Environment": "Michele lives with her spouse, and her adult children visit on weekends. Family interactions are warm and collaborative, with shared decision-making and regular family gatherings.",
+            "Living Habits": "She maintains a regular sleep routine, going to bed by 10 p.m. and waking early. Her diet focuses on fresh produce and lean proteins, and she incorporates daily walks and light stretching into her schedule.",
+            "Growth Experience": "Michele earned her doctoral degree in her early thirties and spent decades building her career in community management. She experienced a major life transition when her children left home, prompting her to increase community involvement."
+        },
+        {
+            "Hobbies": "Emily dedicates time to crocheting, completing small projects during quiet evenings at home. She also enjoys watching military documentaries on weekends, reflecting her professional interests.",
+            "Health Status": "She maintains overall good health, with routine fitness activities required by her role as an army corporal. Emily experiences occasional joint discomfort from years of physical training, managed with stretching and rest.",
+            "Family Environment": "Emily shares her home with her husband and one teenage son. Family life is structured and disciplined, with clear routines and shared responsibilities, and communication is direct and supportive.",
+            "Living Habits": "Her schedule is regimented, waking at 6 a.m. for morning exercise and preparing balanced meals with lean meats and vegetables. Emily spends evenings on household chores and hobbies, retiring by 10 p.m.",
+            "Growth Experience": "Emily completed technical school and enlisted in the army at age 20, advancing steadily to corporal. She adapted to new responsibilities after her son's birth, balancing family and military duties."
+        },
+        {
+            "Hobbies": "Steven is passionate about computer hardware assembly, spending weekends upgrading and troubleshooting his gaming setup. He also practices solo cycling in local parks twice a week for exercise and relaxation.",
+            "Health Status": "He is in generally good physical health, with no chronic issues. Steven occasionally experiences mild stress-related headaches due to academic pressure at vocational high school.",
+            "Family Environment": "Steven lives with his single mother, with whom he has a pragmatic relationship focused on mutual support and independence. Family interactions are concise and center on daily planning rather than emotional discussions.",
+            "Living Habits": "He follows an irregular sleep schedule, often staying up late to work on computer projects and waking up just in time for school. His diet consists mainly of quick-prepared meals and snacks, with limited attention to nutrition.",
+            "Growth Experience": "Steven showed early aptitude for technology, winning a local robotics competition at age 15. Transitioning to vocational high school, he became more self-reliant, taking on part-time technical repair work."
+        }
+    ]
+}

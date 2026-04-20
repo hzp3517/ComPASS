@@ -1,0 +1,33 @@
+{
+    "name": "retrieve_stickers",
+    "description": "Retrieves the most relevant emoji images from the database based on the user's input parameters.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "tag": {
+          "type": "string",
+          "description": "A required keyword that reflects the main theme or emotion to search for in emojis (e.g., comforting, happy, angry)."
+        },
+        "subject": {
+          "type": "string",
+          "description": "Optional. The main subject of the emoji, such as 'cat', 'dog', or 'person'."
+        },
+        "alternative_descriptions": {
+          "type": "string",
+          "description": "Optional. Additional descriptive keywords that refine the search, such as 'cute', 'funny', or 'sad'."
+        },
+        "style": {
+          "type": "string",
+          "description": "Optional. The desired style of the emoji, such as 'cartoon', 'realistic', or 'minimalist'."
+        },
+        "topk": {
+          "type": "integer",
+          "default": 1,
+          "description": "Optional. The number of top results to retrieve. Default is 1."
+        }
+      },
+      "required": ["tag"],
+      "additionalProperties": false
+    }
+  }
+  
